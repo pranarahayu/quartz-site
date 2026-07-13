@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-07-13T17:27:02.220+07:00
+modified: 2026-07-13T22:12:08.092+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -73,7 +73,7 @@ modified: 2026-07-13T17:27:02.220+07:00
 
 </div>
 
-The Kyststedian League (Boreasligaen, for sponsorship reason) is a professional association football league in [[Kyststed]] and the highest level of the Kyststedian football league system. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current [[Kyststedian football championship tournament]], and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+The Kyststedian League (Boreasligaen, for sponsorship reason) is a professional association football league in [[Kyststed]] and the highest level of the [[index|Kyststedian football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Kyststedian football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
 
 ### History
 
