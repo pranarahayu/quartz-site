@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "My Notes"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Outfit
+      body: Inter
+      code: Fira Code
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#faf9f6"
+        lightgray: "#e2e8f0"
+        gray: "#94a3b8"
+        darkgray: "#334155"
+        dark: "#0f172a"
+        secondary: "#4f46e5"
+        tertiary: "#818cf8"
+        highlight: rgba(79, 70, 229, 0.1)
+        textHighlight: rgba(252, 211, 77, 0.4)
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0f172a"
+        lightgray: "#1e293b"
+        gray: "#64748b"
+        darkgray: "#cbd5e1"
+        dark: "#f8fafc"
+        secondary: "#818cf8"
+        tertiary: "#c7d2fe"
+        highlight: rgba(129, 140, 248, 0.15)
+        textHighlight: rgba(252, 211, 77, 0.4)
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -71,7 +71,7 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
+      position: left
       priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
@@ -154,7 +154,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: github:quartz-community/content-meta
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -164,7 +164,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 10
