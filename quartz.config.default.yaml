@@ -140,6 +140,9 @@ plugins:
     layout:
       position: right
       priority: 10
+      group: toolbar
+      groupOptions:
+        grow: true
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -170,6 +173,7 @@ plugins:
     layout:
       position: right
       priority: 20
+      group: toolbar
   - source: github:quartz-community/reader-mode
     enabled: false
     layout:
@@ -251,7 +255,7 @@ plugins:
 layout:
   groups:
     toolbar:
-      priority: 35
+      priority: 10
       direction: row
       gap: 0.5rem
   byPageType:
