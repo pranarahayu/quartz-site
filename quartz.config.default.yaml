@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  #pageTitle: Quartz 5
+  #pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -71,7 +71,7 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
+      position: left
       priority: 30
   - source: github:quartz-community/crawl-links
     enabled: true
@@ -120,13 +120,13 @@ plugins:
   - source: github:quartz-community/canvas-page
     enabled: true
   - source: github:quartz-community/content-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/folder-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/tag-page
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explorer
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
