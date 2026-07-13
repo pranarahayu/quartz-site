@@ -1,8 +1,12 @@
 ---
 publish: true
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-07-13T14:08:34.395+07:00
+modified: 2026-07-13T15:54:04.236+07:00
 ---
+
+---
+
+## Football in Kyststed
 
 Football is the most popular sport in Kyststed, which is an autonomous territory within the Kingdom of Denmark. 60% of those who play sport in Kyststed play football. Football in Kyststed is governed by the [[Sæløernes Fodboldforbund (SæFF)]], and it is a member of UEFA and FIFA, despite not being a sovereign state.
 
