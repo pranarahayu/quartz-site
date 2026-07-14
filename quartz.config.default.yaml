@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: pranarahayu.github.io/quartz-site
+  baseUrl: kyststed.my.id
   ignorePatterns:
     - private
     - templates
