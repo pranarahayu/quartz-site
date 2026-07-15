@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-07-13T22:12:08.092+07:00
+modified: 2026-07-15T14:20:06.437+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -9,7 +9,7 @@ modified: 2026-07-13T22:12:08.092+07:00
   <!-- League Title Header -->
 
   <div style="text-align: center; font-size: 1.3em; font-weight: bold; padding-bottom: 8px; border-bottom: 2px solid var(--interactive-accent); margin-bottom: 10px;">
-    Boreasligaen
+    Boreas-Ligaen
   </div>
 
   <!-- Infobox Data Table -->
@@ -49,11 +49,11 @@ modified: 2026-07-13T22:12:08.092+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Current champions</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">Viktoria Birkelund</a><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">Viktoria Birkelund </a><span style="color: var(--text-muted); font-size: 0.9em;">(12th title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="DB Kyststed">DB Kyststed</a> (24 titles)</td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Akademisk Boldklub">AB</a> (19 titles)</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Broadcaster(s)</td>
@@ -68,12 +68,12 @@ modified: 2026-07-13T22:12:08.092+07:00
   <!-- Footer "Current Season" Link -->
 
   <div style="text-align: center; font-style: italic; margin-top: 10px; font-size: 0.85em; border-top: 1px solid var(--background-modifier-border); padding-top: 8px;">
-    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Boreasligaen Season</span>
+    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Boreas-Ligaen Season</span>
   </div>
 
 </div>
 
-The Kyststedian League (Boreasligaen, for sponsorship reason) is a professional association football league in [[Kyststed]] and the highest level of the [[index|Kyststedian football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Kyststedian football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+Kyststedian Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in [[Kyststed]] and the highest level of the [[index|Kyststedian football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Kyststedian football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
 
 ### History
 
