@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-07-15T14:20:06.437+07:00
+modified: 2026-07-21T21:36:37.713+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -99,32 +99,32 @@ The system evolved again in 2004 with the introduction of a new fourth division,
 
 #### Mesterrækken (1942–1965)
 
-| Season   | Champion                   | Runner-up                       | Top Scorer (club) | Goals |
-| -------- | -------------------------- | ------------------------------- | ----------------- | ----- |
-| [[1942]] | [[Akademisk Boldklub]]     | [[DB Kyststed\|Dansk Boldklub]] |                   |       |
-| [[1943]] | [[Akademisk Boldklub]] (2) | Nyhavn IF                       |                   |       |
-| 1944     |                            |                                 |                   |       |
-| [[1945]] | ØBK                        |                                 |                   |       |
-| [[1946]] | ØBK (2)                    |                                 |                   |       |
-| [[1947]] | NIF                        |                                 |                   |       |
-| [[1948]] | Dansk Boldklub (1)         |                                 |                   |       |
-| [[1949]] | Sønderås BK                |                                 |                   |       |
-| [[1950]] | AB (3)                     |                                 |                   |       |
-| [[1951]] | NIF (2)                    |                                 |                   |       |
-| [[1952]] | AB (4)                     |                                 |                   |       |
-| 1953     | Dansk Boldklub (2)         |                                 |                   |       |
-| 1954     | Dansk Boldklub (3)         |                                 |                   |       |
-| 1955     | Dansk Boldklub (4)         |                                 |                   |       |
-| 1956     | AB (5)                     |                                 |                   |       |
-| 1957     | ØBK (3)                    |                                 |                   |       |
-| 1958     | Dansk Boldklub (5)         |                                 |                   |       |
-| 1959     | Rødpil IF                  |                                 |                   |       |
-| 1960     | AB (6)                     |                                 |                   |       |
-| 1961     | Sønderås BK (2)            |                                 |                   |       |
-| 1962     | Sønderås BK (3)            |                                 |                   |       |
-| 1963     | NIF (3)                    |                                 |                   |       |
-| 1964     | ØBK (4)                    |                                 |                   |       |
-| 1965     | AB (7)                     |                                 |                   |       |
+| Season   | Champion                   | Runner-up                       | Top Scorer (club)    | Goals |
+| -------- | -------------------------- | ------------------------------- | -------------------- | ----- |
+| [[1942]] | [[Akademisk Boldklub]]     | [[DB Kyststed\|Dansk Boldklub]] | Viggo Svanesen (AB)  | 21    |
+| [[1943]] | [[Akademisk Boldklub]] (2) | Nyhavn IF                       | Viggo Svanesen (AB)  | 25    |
+| 1944     |                            |                                 |                      |       |
+| [[1945]] | ØBK                        | Akademisk Boldklub              | Lars Møller (ØBK)    | 19    |
+| [[1946]] | ØBK (2)                    | Dansk Boldklub                  | Lars Møller (ØBK)    | 23    |
+| [[1947]] | NIF                        | ØBK Østereng                    | Jens Christian (NIF) | 22    |
+| [[1948]] | Dansk Boldklub             | Nyhavn IF                       | Jens Christian (NIF) | 19    |
+| [[1949]] | Sønderås BK                | Dansk Boldklub                  | Kasper Lund (DB)     | 18    |
+| [[1950]] | AB (3)                     | ØBK Østereng                    | Henrik Poulsen (DB)  | 20    |
+| [[1951]] | NIF (2)                    | AB                              | Jens Christian (NIF) | 23    |
+| [[1952]] | AB (4)                     | Dansk Boldklub                  | Mads Sørensen (B23)  | 19    |
+| 1953     | Dansk Boldklub (2)         |                                 |                      |       |
+| 1954     | Dansk Boldklub (3)         |                                 |                      |       |
+| 1955     | Dansk Boldklub (4)         |                                 |                      |       |
+| 1956     | AB (5)                     |                                 |                      |       |
+| 1957     | ØBK (3)                    |                                 |                      |       |
+| 1958     | Dansk Boldklub (5)         |                                 |                      |       |
+| 1959     | Rødpil IF                  |                                 |                      |       |
+| 1960     | AB (6)                     |                                 |                      |       |
+| 1961     | Sønderås BK (2)            |                                 |                      |       |
+| 1962     | Sønderås BK (3)            |                                 |                      |       |
+| 1963     | NIF (3)                    |                                 |                      |       |
+| 1964     | ØBK (4)                    |                                 |                      |       |
+| 1965     | AB (7)                     |                                 |                      |       |
 
 #### Sæløernes Hovedliga (1966–1992)
 
