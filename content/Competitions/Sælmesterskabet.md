@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-07-09T14:21:59.966+07:00
-modified: 2026-07-21T21:36:49.854+07:00
+modified: 2026-08-21T15:34:47.400+07:00
 ---
 
-The Kyststedian Cup (often referred to as Sælmesterskabet) is the official "knockout" cup competition in Kyststedian football, run by the Kyststed Football Association (SæFF). It is the oldest football competition in Kyststed, the first edition was contested in 1918.
+The Sæløsk Cup (often referred to as Sælmesterskabet) is the official "knockout" cup competition in Sæløsk football, run by the Sæløerne Football Association (SBS). It is the oldest football competition in Sæløerne, the first edition was contested in 1918.
 
 ### History
 
-Originally contested as the island's premier football tournament, Sælmesterskabet was the official competition used to crown the Kyststed champions until 1941. With the creation of the SæFF and the ambition to establish a unified league system, Sælmesterskabet was replaced by the newly founded Mesterrækken, which took over the mantle of crowning the official top-flight champions.
+Originally contested as the island's premier football tournament, Sælmesterskabet was the official competition used to crown the Sæløsk champions until 1941. With the creation of the SBS and the ambition to establish a unified league system, Sælmesterskabet was replaced by the newly founded Mesterrækken, which took over the mantle of crowning the official top-flight champions.
 
-In 1957, wanting to introduce a national cup competition to the pyramid while honoring the island's footballing heritage, SæFF established a new domestic cup and revived the historic Sælmesterskabet name for it. To streamline the record books, SæFF subsequently stripped the pre-1942 winners of their "League Champion" status, retroactively reclassifying those early titles as official domestic cup victories instead.
+In 1957, wanting to introduce a national cup competition to the pyramid while honoring the island's footballing heritage, SBS established a new domestic cup and revived the historic Sælmesterskabet name for it. To streamline the record books, SBS subsequently stripped the pre-1942 winners of their "League Champion" status, retroactively reclassifying those early titles as official domestic cup victories instead.
 
 ### Format
 

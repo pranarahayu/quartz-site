@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-07-21T21:36:37.713+07:00
+modified: 2026-08-27T17:04:56.521+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -73,21 +73,21 @@ modified: 2026-07-21T21:36:37.713+07:00
 
 </div>
 
-Kyststedian Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in [[Kyststed]] and the highest level of the [[index|Kyststedian football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Kyststedian football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in [[Sæløerne]] and the highest level of the [[index|Sæløsk football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
 
 ### History
 
-Following the founding of football clubs across the island, the Kyststed Hovedstad Sports Association started its own football tournaments in 1907. Upon the creation of the Hovedstadens Fodboldforbund (HFF) in 1910, the administration of the tournament was handed over to this newly founded regional body, which went on to organize the yearly Kyststed Hovedstad Championship. As other regional football associations emerged across the island  – namely Nordmarkens Fodboldforbund (NFF), Østlandets Fodboldforbund (ØFF), Sønderkystens Fodboldforbund (SøFF), Vestskærgårdens Fodboldforbund (VFF), and Luffes Fodboldforbund (LFF) – they also began arranging championships for their respective areas, running parallel to the prestigious Kyststed Hovedstad Championship.
+Following the founding of football clubs across the island, the Hovedstadens Sports Association started its own football tournaments in 1907. Upon the creation of the Hovedstadens Fodboldforbund (HFF) in 1910, the administration of the tournament was handed over to this newly founded regional body, which went on to organize the yearly Kyststed Hovedstad Championship. As other regional football associations emerged across the island—namely Nordmarkens Fodboldforbund (NFF), Østlandets Fodboldforbund (ØFF), Sønderkystens Fodboldforbund (SøFF), Vestskærgårdens Fodboldforbund (VFF), and Luffes Fodboldforbund (LFF)—they also began arranging championships for their respective areas, running parallel to the prestigious Kyststed Hovedstad Championship.
 
-The first true Kyststedian national championship, the [[Sælmesterskabet]], was contested in 1918. It featured a knockout format where the champions of each region, along with the runners-up and third-place finishers from the Kyststed Hovedstad Championship, competed to decide the undisputed champion of the island. The draw was intentionally structured so that each team from the Kyststed Hovedstad faced a champion from the other regions. Because the capital clubs were significantly stronger than their provincial counterparts, this meant that, more often than not, three of the four semi-finalists were from Kyststed Hovedstad.
+The first true Sæløsk national championship, the [[Sælmesterskabet]], was contested in 1918. It featured a knockout format where the champions of each region, along with the runners-up and third-place finishers from the Kyststed Hovedstad Championship, competed to decide the undisputed champion of the island. The draw was intentionally structured so that each team from the Kyststed Hovedstad faced a champion from the other regions. Because the capital clubs were significantly stronger than their provincial counterparts, this meant that, more often than not, three of the four semi-finalists were from Kyststed Hovedstad.
 
-The creation of the SæFF and the ambition to establish a unified league system led to the launch of the Mesterrækken in 1942. The inaugural season was contested by eight teams—three from the Kyststed Hovedstad and one from each of the island's other regions—with every team facing each other twice in a double round-robin format. Although the new national league took center stage, the historic regional competitions continued to be played regularly alongside it.
+The creation of the [[Sæløernes Boldspil-Sammenslutning (SBS)|SBS]] and the ambition to establish a unified league system led to the launch of the Mesterrækken in 1942. The inaugural season was contested by eight teams—three from the Kyststed Hovedstad and one from each of the island's other regions—with every team facing each other twice in a double round-robin format. Although the new national league took center stage, the historic regional competitions continued to be played regularly alongside it.
 
 The football pyramid expanded significantly in 1952 with the introduction of an eight-team second division called "[[2. Liga|1. Division]]". However, movement between the two tiers did not follow standard sporting merit. Instead, the promotion and relegation system operated under a re-election system known as Genvalgssystemet. Under this controversial setup, the fate of relegated and promoted teams was decided entirely by a vote cast by the top seven clubs of the Mesterrækken. Because the top-flight clubs actively protected their own positions, the system severely stifled upward mobility. Between 1952 and 1965, only two teams successfully managed to gain promotion through this voting system.
 
-Amidst this era, the historic Sælmesterskabet was reintroduced in 1957. Rather than serving as the mechanism to crown the primary national champion as it did in the pre-league era, it was repurposed as the official national cup competition. From this point forward, the Sælmesterskabet winners were no longer recognized as the premier national league champions, but rather strictly as cup champions. This reclassification was also applied retroactively to all previous winners of the tournament, officially stripping the pre-1942 titles of their status as top-flight league championships in the SæFF record books.
+Amidst this era, the historic Sælmesterskabet was reintroduced in 1957. Rather than serving as the mechanism to crown the primary national champion as it did in the pre-league era, it was repurposed as the official national cup competition. From this point forward, the Sælmesterskabet winners were no longer recognized as the premier national league champions, but rather strictly as cup champions. This reclassification was also applied retroactively to all previous winners of the tournament, officially stripping the pre-1942 titles of their status as top-flight league championships in the SBS record books.
 
-The highly criticized Genvalgssystemet was finally abolished ahead of the 1966 season, marking a major modernization of Kyststedian football. The Mesterrækken was renamed the Sæløernes Hovedliga and expanded from eight to ten teams, while a standard, automatic promotion and relegation system was established with two fixed spots changing hands each year. To support this expanding ecosystem, a new third division called the [[3. Liga|2. Division]] was also created, featuring eight teams divided into two groups that competed for a single promotion spot to the 1. Division.
+The highly criticized Genvalgssystemet was finally abolished ahead of the 1966 season, marking a major modernization of Sæløsk football. The Mesterrækken was renamed the Sæløernes Hovedliga and expanded from eight to ten teams, while a standard, automatic promotion and relegation system was established with two fixed spots changing hands each year. To support this expanding ecosystem, a new third division called the [[3. Liga|2. Division]] was also created, featuring eight teams divided into two groups that competed for a single promotion spot to the 1. Division.
 
 The league system underwent further expansion in 1982 when the Sæløernes Hovedliga was increased to 12 teams, extending the regular season schedule to 22 matches per club. Simultaneously, the 2. Division was also expanded to 12 teams, and reserve sides from top-flight clubs were officially permitted to compete in the third tier for the first time.
 
@@ -99,32 +99,32 @@ The system evolved again in 2004 with the introduction of a new fourth division,
 
 #### Mesterrækken (1942–1965)
 
-| Season   | Champion                   | Runner-up                       | Top Scorer (club)    | Goals |
-| -------- | -------------------------- | ------------------------------- | -------------------- | ----- |
-| [[1942]] | [[Akademisk Boldklub]]     | [[DB Kyststed\|Dansk Boldklub]] | Viggo Svanesen (AB)  | 21    |
-| [[1943]] | [[Akademisk Boldklub]] (2) | Nyhavn IF                       | Viggo Svanesen (AB)  | 25    |
-| 1944     |                            |                                 |                      |       |
-| [[1945]] | ØBK                        | Akademisk Boldklub              | Lars Møller (ØBK)    | 19    |
-| [[1946]] | ØBK (2)                    | Dansk Boldklub                  | Lars Møller (ØBK)    | 23    |
-| [[1947]] | NIF                        | ØBK Østereng                    | Jens Christian (NIF) | 22    |
-| [[1948]] | Dansk Boldklub             | Nyhavn IF                       | Jens Christian (NIF) | 19    |
-| [[1949]] | Sønderås BK                | Dansk Boldklub                  | Kasper Lund (DB)     | 18    |
-| [[1950]] | AB (3)                     | ØBK Østereng                    | Henrik Poulsen (DB)  | 20    |
-| [[1951]] | NIF (2)                    | AB                              | Jens Christian (NIF) | 23    |
-| [[1952]] | AB (4)                     | Dansk Boldklub                  | Mads Sørensen (B23)  | 19    |
-| 1953     | Dansk Boldklub (2)         |                                 |                      |       |
-| 1954     | Dansk Boldklub (3)         |                                 |                      |       |
-| 1955     | Dansk Boldklub (4)         |                                 |                      |       |
-| 1956     | AB (5)                     |                                 |                      |       |
-| 1957     | ØBK (3)                    |                                 |                      |       |
-| 1958     | Dansk Boldklub (5)         |                                 |                      |       |
-| 1959     | Rødpil IF                  |                                 |                      |       |
-| 1960     | AB (6)                     |                                 |                      |       |
-| 1961     | Sønderås BK (2)            |                                 |                      |       |
-| 1962     | Sønderås BK (3)            |                                 |                      |       |
-| 1963     | NIF (3)                    |                                 |                      |       |
-| 1964     | ØBK (4)                    |                                 |                      |       |
-| 1965     | AB (7)                     |                                 |                      |       |
+| Season   | Champion           | Runner-up          | Top Scorer (club)    | Goals |
+| -------- | ------------------ | ------------------ | -------------------- | ----- |
+| [[1942]] | [[UB\|KUGF]]       | [[Dansk Boldklub]] | Viggo Svanesen (AB)  | 21    |
+| [[1943]] | [[UB\|KUGF]] (2)   | Nyhavn IF          | Viggo Svanesen (AB)  | 25    |
+| 1944     |                    |                    |                      |       |
+| [[1945]] | ØBK                | UB                 | Lars Møller (ØBK)    | 19    |
+| [[1946]] | ØBK (2)            | Dansk Boldklub     | Lars Møller (ØBK)    | 23    |
+| [[1947]] | NIF                | ØBK Østereng       | Jens Christian (NIF) | 22    |
+| [[1948]] | Dansk Boldklub     | Nyhavn IF          | Jens Christian (NIF) | 19    |
+| [[1949]] | Sønderås BK        | Dansk Boldklub     | Kasper Lund (DB)     | 18    |
+| [[1950]] | AB (3)             | ØBK Østereng       | Henrik Poulsen (DB)  | 20    |
+| [[1951]] | NIF (2)            | AB                 | Jens Christian (NIF) | 23    |
+| [[1952]] | AB (4)             | Dansk Boldklub     | Mads Sørensen (B23)  | 19    |
+| 1953     | Dansk Boldklub (2) |                    |                      |       |
+| 1954     | Dansk Boldklub (3) |                    |                      |       |
+| 1955     | Dansk Boldklub (4) |                    |                      |       |
+| 1956     | AB (5)             |                    |                      |       |
+| 1957     | ØBK (3)            |                    |                      |       |
+| 1958     | Dansk Boldklub (5) |                    |                      |       |
+| 1959     | Rødpil IF          |                    |                      |       |
+| 1960     | AB (6)             |                    |                      |       |
+| 1961     | Sønderås BK (2)    |                    |                      |       |
+| 1962     | Sønderås BK (3)    |                    |                      |       |
+| 1963     | NIF (3)            |                    |                      |       |
+| 1964     | ØBK (4)            |                    |                      |       |
+| 1965     | AB (7)             |                    |                      |       |
 
 #### Sæløernes Hovedliga (1966–1992)
 
