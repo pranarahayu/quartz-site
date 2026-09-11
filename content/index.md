@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Football in Kyststed
+title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-08-21T14:42:31.173+07:00
+modified: 2026-08-29T14:23:47.687+07:00
 ---
 
 Football is the most popular sport in Sæløerne, which is an autonomous territory within the Kingdom of Denmark. 60% of those who play sport in Sæløerne play football. Football in Sæløerne is governed by the [[Sæløernes Boldspil-Sammenslutning (SBS)]], and it is a member of UEFA and FIFA, despite not being a sovereign state.

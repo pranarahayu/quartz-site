@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-08-27T17:04:56.521+07:00
+modified: 2026-09-11T12:07:25.147+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -174,7 +174,7 @@ The system evolved again in 2004 with the introduction of a new fourth division,
 | 2002   | ØRK (3)                    |           |                   |       |
 | 2003   | Olympisk Vesterfjeld       |           |                   |       |
 | 2004   | FC Kyststed                |           |                   |       |
-| 2005   | FC Kystsed (2)             |           |                   |       |
+| 2005   | FC Kyststed (2)            |           |                   |       |
 | 2006   | Viktoria Birkelund (3)     |           |                   |       |
 | 2007   | Viktoria Birkelund (4)     |           |                   |       |
 | 2008   | ØRK (4)                    |           |                   |       |
@@ -189,9 +189,9 @@ The system evolved again in 2004 with the introduction of a new fourth division,
 | 2017   | FC Kyststed (5)            |           |                   |       |
 | 2018   | Viktoria Birkelund (9)     |           |                   |       |
 | 2019   | Viktoria Birkelund (10)    |           |                   |       |
-| 2020   | Olympisk Vesterfjeld (2)   |           |                   |       |
+| 2020   | FC Kyststed (6)            |           |                   |       |
 | 2021   | Boldklubben Alliancen 1923 |           |                   |       |
-| 2022   | FC Kyststed (6)            |           |                   |       |
+| 2022   | FC Kyststed (7)            |           |                   |       |
 | 2023   | Viktoria Birkelund (11)    |           |                   |       |
 | 2024   | Fortuna Lavvand            |           |                   |       |
 | 2025   | Viktoria Birkelund (12)    |           |                   |       |
@@ -205,14 +205,14 @@ The following 16 clubs have won the top league in Kyststedian football.
 | AB                         |   19    |            | 1942, 1943, 1950, 1952, 1956, 1960, 1965, 1966, 1969, 1971, 1972, 1973, 1980, 1990, 1995, 1996, 1997, 1999, 2015 |
 | Viktoria Birkelund         |   12    |            | 1976, 1977, 2006, 2007, 2011, 2012, 2014, 2016, 2018, 2019, 2023, 2025                                           |
 | Dansk Boldklub             |   10    |            | 1948, 1953, 1954, 1955, 1958, 1968, 1974, 1978, 1979, 1981                                                       |
-| FC Kyststed                |    6    |            | 2004, 2005, 2009, 2013, 2017, 2022                                                                               |
+| FC Kyststed                |    7    |            | 2004, 2005, 2009, 2013, 2017,  2020, 2022                                                                        |
 | Fremad Boldklubben         |    6    |            | 1975, 1982, 1984, 1985, 1992, 1993                                                                               |
 | Sønderås BK                |    6    |            | 1949, 1961, 1962, 1986, 2000, 2001                                                                               |
 | ØBK                        |    5    |            | 1945, 1946, 1957, 1964, 1970                                                                                     |
 | ØRK                        |    5    |            | 1987, 1988, 2002, 2008, 2010                                                                                     |
 | Ravnedal BK                |    4    |            | 1967, 1991, 1994, 1998                                                                                           |
 | NIF                        |    3    |            | 1947, 1951, 1963                                                                                                 |
-| Olympisk Vesterfjeld       |    2    |            | 2003, 2020                                                                                                       |
+| Olympisk Vesterfjeld       |    1    |            | 2003                                                                                                             |
 | Rødpil IF                  |    1    |            | 1959                                                                                                             |
 | Færgeby GF                 |    1    |            | 1983                                                                                                             |
 | Fiskerodde FF              |    1    |            | 1989                                                                                                             |
