@@ -2,10 +2,7 @@
 publish: true
 title: Sæløernes Boldspil-Sammenslutning
 created: 2026-08-21T14:38:14.542+07:00
-modified: 2026-09-11T23:01:22.348+07:00
-tags:
-  - SBS
-  - Football
+modified: 2026-09-11T23:16:09.684+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -16,7 +13,7 @@ tags:
 
 <div style="text-align: center; margin-bottom: 10px;">
 	<img
-	src="/Assets/Logos/SBS.png" alt="Sæløernes Boldspil-Sammenslutning logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
+	src="/static/SBS.png" alt="Sæløernes Boldspil-Sammenslutning logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
 	>
 </div>
 
@@ -46,7 +43,7 @@ tags:
     </tr>
   </table>
 </div>
-The **Sæløernes Boldspil-Sammenslutning** is the governing body of association football in Sæløerne. It oversees the Sæløsk football league system, domestic cup competitions, and the [[Sæløerne national football team|men's]] and [[Sæløerne women's national football team|women's]] national representative teams.
+The Sæløernes Boldspil-Sammenslutning is the governing body of association football in Sæløerne. It oversees the Sæløsk football league system, domestic cup competitions, and the men's and women's national representative teams.
 
 Headquartered in Nyhavn, the association was admitted to FIFA in 1985 and UEFA in 1987. The SBS operates alongside six constituent regional football associations and the [[Ligaforeningen]] (LF).
 
@@ -68,7 +65,7 @@ In 1957, the historic _Sælmesterskabet_ title was repurposed and reintroduced a
 
 During the second half of the 20th century, the SBS expanded the domestic football pyramid by establishing secondary national divisions, standardizing promotion and relegation, and overseeing the transition toward professionalization.
 
-- **International affiliation:** The SBS gained membership in [[FIFA]] in 1985, followed by [[UEFA]] in 1987, enabling Sæløsk national teams to enter official international qualifiers.
+- **International affiliation:** The SBS gained membership in FIFA in 1985, followed by UEFA in 1987, enabling Sæløsk national teams to enter official international qualifiers.
 - **Separation of commercial operations:** In 1993, responsibility for the administration and commercial operation of the professional divisions was transferred to the newly established [[Ligaforeningen]] (LF). The SBS retained ultimate regulatory authority over the sport, refereeing, and national cup competition.
 
 ### Structure and Competitions
