@@ -2,7 +2,7 @@
 publish: true
 title: Ligaforeningen
 created: 2026-09-11T23:22:29.246+07:00
-modified: 2026-09-12T07:03:21.223+07:00
+modified: 2026-09-12T07:36:52.180+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -43,9 +43,9 @@ modified: 2026-09-12T07:03:21.223+07:00
     </tr>
   </table>
 </div>
-The **Ligaforeningen** (LF) is the association representing clubs in the [Sæløsk Ligaen](Sæløsk Ligaen), the highest division of the [Sæløsk football league system](Sæløsk football league system). It is responsible for the administration and commercial operation of the competition.
+The Ligaforeningen (LF) is the association representing clubs in the Sæløsk Ligaen, the highest division of the Sæløsk football league system. It is responsible for the administration and commercial operation of the competition.
 
-Established in 1993, the LF operates under the authority of the \[Sæløernes Boldspil-Sammenslutning]\(Sæløernes Boldspil-Sammenslutning) (SBS). The SBS retains responsibility for competition regulations, refereeing, disciplinary matters, club licensing and the overall governance of football in Sæløerne.
+Established in 1993, the LF operates under the authority of the Sæløernes Boldspil-Sammenslutning (SBS). The SBS retains responsibility for competition regulations, refereeing, disciplinary matters, club licensing and the overall governance of football in Sæløerne.
 
 ### History
 

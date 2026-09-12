@@ -1,7 +1,8 @@
 ---
 publish: true
+title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-11T12:07:25.147+07:00
+modified: 2026-09-12T07:54:18.641+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -11,6 +12,12 @@ modified: 2026-09-11T12:07:25.147+07:00
   <div style="text-align: center; font-size: 1.3em; font-weight: bold; padding-bottom: 8px; border-bottom: 2px solid var(--interactive-accent); margin-bottom: 10px;">
     Boreas-Ligaen
   </div>
+
+<div style="text-align: center; margin-bottom: 10px;">
+	<img
+	src="https://kyststed.my.id/static/Ligaen.png" alt="Ligaen logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
+	>
+</div>
 
   <!-- Infobox Data Table -->
 
@@ -68,32 +75,94 @@ modified: 2026-09-11T12:07:25.147+07:00
   <!-- Footer "Current Season" Link -->
 
   <div style="text-align: center; font-style: italic; margin-top: 10px; font-size: 0.85em; border-top: 1px solid var(--background-modifier-border); padding-top: 8px;">
-    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Boreas-Ligaen Season</span>
+    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Ligaen Season</span>
   </div>
 
 </div>
 
-Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in [[Sæløerne]] and the highest level of the [[index|Sæløsk football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in Sæløerne and the highest level of the [[index|Sæløsk football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+
+The competition has previously been known as the Mesterrækken and the Sæløernes Hovedliga. It adopted its present name in 1993, when the top division was reorganized and formally professionalized.
 
 ### History
 
-Following the founding of football clubs across the island, the Hovedstadens Sports Association started its own football tournaments in 1907. Upon the creation of the Hovedstadens Fodboldforbund (HFF) in 1910, the administration of the tournament was handed over to this newly founded regional body, which went on to organize the yearly Kyststed Hovedstad Championship. As other regional football associations emerged across the island—namely Nordmarkens Fodboldforbund (NFF), Østlandets Fodboldforbund (ØFF), Sønderkystens Fodboldforbund (SøFF), Vestskærgårdens Fodboldforbund (VFF), and Luffes Fodboldforbund (LFF)—they also began arranging championships for their respective areas, running parallel to the prestigious Kyststed Hovedstad Championship.
+#### Mesterrækken
 
-The first true Sæløsk national championship, the [[Sælmesterskabet]], was contested in 1918. It featured a knockout format where the champions of each region, along with the runners-up and third-place finishers from the Kyststed Hovedstad Championship, competed to decide the undisputed champion of the island. The draw was intentionally structured so that each team from the Kyststed Hovedstad faced a champion from the other regions. Because the capital clubs were significantly stronger than their provincial counterparts, this meant that, more often than not, three of the four semi-finalists were from Kyststed Hovedstad.
+Before 1942, football in Sæløerne was organized through six regional championships. The winners of those competitions met in the _[[Sælmesterskabet]]_, a knockout tournament used to determine an overall island champion.
 
-The creation of the [[Sæløernes Boldspil-Sammenslutning (SBS)|SBS]] and the ambition to establish a unified league system led to the launch of the Mesterrækken in 1942. The inaugural season was contested by eight teams—three from the Kyststed Hovedstad and one from each of the island's other regions—with every team facing each other twice in a double round-robin format. Although the new national league took center stage, the historic regional competitions continued to be played regularly alongside it.
+Following the establishment of the SBS in 1939, plans were made for a permanent national league. The resulting Mesterrækken began play in 1942, becoming the first competition in which leading clubs from across Sæløerne competed against one another throughout a full league season.
 
-The football pyramid expanded significantly in 1952 with the introduction of an eight-team second division called "[[2. Liga|1. Division]]". However, movement between the two tiers did not follow standard sporting merit. Instead, the promotion and relegation system operated under a re-election system known as Genvalgssystemet. Under this controversial setup, the fate of relegated and promoted teams was decided entirely by a vote cast by the top seven clubs of the Mesterrækken. Because the top-flight clubs actively protected their own positions, the system severely stifled upward mobility. Between 1952 and 1965, only two teams successfully managed to gain promotion through this voting system.
+The inaugural division contained eight clubs. Three qualified from Kyststed Hovedstad, while each of the other five regions received one place. Every club played the other seven twice, producing a fourteen-match season.
 
-Amidst this era, the historic Sælmesterskabet was reintroduced in 1957. Rather than serving as the mechanism to crown the primary national champion as it did in the pre-league era, it was repurposed as the official national cup competition. From this point forward, the Sælmesterskabet winners were no longer recognized as the premier national league champions, but rather strictly as cup champions. This reclassification was also applied retroactively to all previous winners of the tournament, officially stripping the pre-1942 titles of their status as top-flight league championships in the SBS record books.
+Kyststed Universitets Gymnastik- og Boldspilforening (KUGF) won the inaugural championship in 1942 and retained the title in 1943. ØBK subsequently emerged as an early provincial champion, winning the competition in 1945 and again in 1946.
 
-The highly criticized Genvalgssystemet was finally abolished ahead of the 1966 season, marking a major modernization of Sæløsk football. The Mesterrækken was renamed the Sæløernes Hovedliga and expanded from eight to ten teams, while a standard, automatic promotion and relegation system was established with two fixed spots changing hands each year. To support this expanding ecosystem, a new third division called the [[3. Liga|2. Division]] was also created, featuring eight teams divided into two groups that competed for a single promotion spot to the 1. Division.
+The establishment of the Mesterrækken replaced the _Sælmesterskabet_ as the competition used to determine the principal national champion. Regional championships nevertheless continued to be contested alongside the national league.
 
-The league system underwent further expansion in 1982 when the Sæløernes Hovedliga was increased to 12 teams, extending the regular season schedule to 22 matches per club. Simultaneously, the 2. Division was also expanded to 12 teams, and reserve sides from top-flight clubs were officially permitted to compete in the third tier for the first time.
+A second national division, the [[2. Liga|1. Division]], was introduced in 1952. Promotion and relegation were initially controlled through the **Genvalgssystemet**, under which the seven highest-placed Mesterrækken clubs voted on the composition of the following season's top division.
 
-A major modernizing overhaul occurred in 1993 when the top flight was fully professionalized and rebranded as the Ligaen, officially replacing the old Sæløernes Hovedliga. Under this new format, the 1. Division and 2. Division were renamed the [[2. Liga]] and [[3. Liga]], respectively. As part of this reorganization, the third tier was consolidated from two separate groups into a single, unified division. The top division was scaled back down to 10 teams, creating a standardized structure where the top three tiers each featured exactly 10 clubs. To add late-season excitement, a new split championship and relegation series format was introduced to the Ligaen.
+The re-election system heavily favoured existing Mesterrækken members. Only two second-tier clubs were admitted to the top flight between its introduction in 1952 and its abolition in 1965.
 
-The system evolved again in 2004 with the introduction of a new fourth division, [[Lokalligaen]], which was originally organized across four distinct regional groups. At the same time, the Ligaen's post-season championship and relegation series was abolished, replaced instead by a quadruple round-robin format where teams faced each opponent four times a year. The league structure was refined into its current state in 2018, when the four regional groups of the fourth division were streamlined and reduced to the modern two-division system, split into the Nord and Syd groups.
+#### Sæløernes Hovedliga
+
+The Genvalgssystemet was abolished ahead of the 1966 season. The Mesterrækken was renamed the **Sæløernes Hovedliga** and expanded from eight to ten clubs. Two automatic promotion and relegation places were introduced, establishing direct movement between the two highest divisions for the first time.
+
+The reform formed part of a wider expansion of the national league system. A third level, the [[3. Liga|2. Division]], was created during the same year, providing a national route into the two senior divisions.
+
+Sæløerne's admission to FIFA in 1985 and UEFA in 1987 gave the Hovedliga an international role. League position could thereafter provide qualification for UEFA club competitions, while domestic clubs were required to meet increasingly standardized sporting and administrative requirements.
+
+#### Professional era
+
+The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively, giving the top three levels their present names.
+
+The [[Ligaforeningen]] was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
+
+A post-season format was introduced as part of the reorganization. After the initial league phase, the division separated into championship and relegation series. The system remained in use until 2004.
+
+In 2004, the split format was abolished and replaced by a quadruple round-robin schedule. With ten participating clubs, each team played every opponent four times, twice at home and twice away, for a total of 36 matches.
+
+Promotion and relegation were revised in 2020. The bottom-placed Ligaen club was relegated automatically and replaced by the 2. Liga champion, while the ninth-placed Ligaen club entered a play-off against the 2. Liga runner-up. The reform replaced the previous arrangement under which two clubs were relegated automatically.
+
+### Competition format
+
+The Ligaen consists of ten clubs. Each club plays 36 matches during the season, facing every opponent twice at home and twice away.
+
+The club finishing first is declared Sæløsk league champion. The tenth-placed club is relegated automatically to [[2. Liga]], while the ninth-placed club contests a promotion and relegation play-off against the second-placed team from 2. Liga.
+
+Qualification for UEFA competitions is allocated through league position in accordance with the places available to Sæløerne. The precise entry rounds are determined by Sæløerne's position in the UEFA association coefficient rankings.
+
+### Administration
+
+The Ligaen is administered by the Ligaforeningen, whose membership consists of the ten participating clubs. The LF is responsible for fixture scheduling, commercial agreements, broadcasting rights, league branding and common operational standards.
+
+The SBS retains authority over competition regulations, refereeing, disciplinary proceedings and club licensing. Changes to the competition's sporting format require SBS approval.
+
+Clubs promoted from 2. Liga become members of the Ligaforeningen upon entering the Ligaen. Relegated clubs cease to be members when they leave the division.
+
+### Names
+
+|Period|Competition name|
+|---|---|
+|1942–1965|Mesterrækken|
+|1966–1992|Sæløernes Hovedliga|
+|1993–present|Ligaen|
+
+The competition is currently marketed as the **Boreas-Ligaen** under its title sponsorship agreement.
+
+### Championship stars
+
+Ligaen regulations allow clubs to display one championship star for every seven officially recognized league titles. Only championships won in the Mesterrækken, Sæløernes Hovedliga, and Ligaen are included in the official total.
+
+Titles won in the _Sælmesterskabet_ before 1942 do not count towards the award. Although the tournament originally determined the overall champion of Sæløerne, its pre-1942 winners were retroactively classified as cup winners when the competition was reintroduced as the national cup in 1957.
+
+#### Dansk Boldklub dispute
+
+Dansk Boldklub has won ten officially recognized league championships, entitling the club to display one star under Ligaen regulations. The club also won the _Sælmesterskabet_ twelve times before the creation of the Mesterrækken.
+
+Dansk Boldklub rejects the distinction between its pre-1942 and post-1942 championships. It argues that the original _Sælmesterskabet_ was the highest island-wide competition available at the time and that its winners were recognized contemporaneously as national champions.
+
+By combining its twelve pre-league _Sælmesterskabet_ victories with its ten league titles, Dansk Boldklub claims a total of 22 national championships. Under its interpretation of the seven-title rule, the club is entitled to display three stars.
+
+The official Ligaen record recognizes only the club's ten league championships and therefore permits one star. Dansk Boldklub nevertheless continues to wear three stars above its crest. The club is fined for every match in which the unauthorized stars appear, but has consistently refused to remove them.
 
 ### Champions
 
