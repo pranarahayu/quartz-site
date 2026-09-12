@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-12T07:54:18.641+07:00
+modified: 2026-09-12T08:24:10.782+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -200,7 +200,7 @@ The official Ligaen record recognizes only the club's ten league championships a
 | Season | Champion               | Runner-up | Top Scorer (club) | Goals |
 | ------ | ---------------------- | --------- | ----------------- | ----- |
 | 1966   | AB (8)                 |           |                   |       |
-| 1967   | Ravnedal BK            |           |                   |       |
+| 1967   | [[Ravnedal BK]]        |           |                   |       |
 | 1968   | Dansk Boldklub (6)     |           |                   |       |
 | 1969   | AB (9)                 |           |                   |       |
 | 1970   | ØBK (5)                |           |                   |       |
