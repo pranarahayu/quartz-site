@@ -2,7 +2,7 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-12T08:46:54.379+07:00
+modified: 2026-09-12T08:56:30.481+07:00
 ---
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
@@ -91,7 +91,6 @@ The same system was introduced between 2. Liga and 3. Liga. The bottom club in 2
 |   2   |        2. Liga<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 1 or 2 relegation spots_</small>        |
 |   3   |          3. Liga<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 2 relegation spots_</small>           |
 |   4   | Lokalligaen<br><small>_Nord - 8 Clubs_</small><br><small>_Syd - 8 Clubs_</small><br><small>_2 promotion spots_</small> |
-Promotion and relegation normally take place between adjacent levels. The winners of the two Lokalligaen groups are promoted to 3. Liga.
 
 ### Youth football
 

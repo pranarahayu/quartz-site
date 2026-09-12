@@ -1,8 +1,8 @@
 ---
 publish: true
-title: RBK
+title: Ravnedal Boldklub
 created: 2026-09-12T08:24:11.822+07:00
-modified: 2026-09-12T08:38:06.068+07:00
+modified: 2026-09-12T08:56:07.225+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
