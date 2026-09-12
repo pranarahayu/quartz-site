@@ -1,8 +1,8 @@
 ---
 publish: true
-title: Ravnedal Boldklub
-created: 2026-09-12T08:24:11.822+07:00
-modified: 2026-09-12T11:24:10.479+07:00
+title: Boldklubben Fremad
+created: 2026-09-12T10:37:46.863+07:00
+modified: 2026-09-12T12:19:08.159+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -10,12 +10,12 @@ modified: 2026-09-12T11:24:10.479+07:00
   <!-- League Title Header -->
 
   <div style="text-align: center; font-size: 1.3em; font-weight: bold; padding-bottom: 8px; border-bottom: 2px solid var(--interactive-accent); margin-bottom: 10px;">
-    Ravnedal Boldklub
+    Boldklubben Fremad
   </div>
 
 <div style="text-align: center; margin-bottom: 10px;">
 	<img
-	src="https://kyststed.my.id/static/club/RBK.png" alt="RBK logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
+	src="https://kyststed.my.id/static/club/BKF.png" alt="BKF logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
 	>
 </div>
 
@@ -24,35 +24,35 @@ modified: 2026-09-12T11:24:10.479+07:00
   <table style="width: 100%; border-collapse: collapse; background: transparent; border: none;">
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Full name</td>
-      <td style="padding: 6px 0;">Ravnedal Boldklub</td>
+      <td style="padding: 6px 0;">Boldklubben Fremad</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Nicknames</td>
-      <td style="padding: 6px 0;">Ravnerne (The Ravens)</td>
+      <td style="padding: 6px 0;">Fremmerne</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Short name</td>
-      <td style="padding: 6px 0;">RBK</td>
+      <td style="padding: 6px 0;">BKF</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Founded</td>
-      <td style="padding: 6px 0;">11 January 1907; 119 years ago</td>
+      <td style="padding: 6px 0;">19 August 1908; 118 years ago</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Ground</td>
-      <td style="padding: 6px 0;">Ravnereden</td>
+      <td style="padding: 6px 0;">Dybhavn Idrætsspark</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">League</td>
-      <td style="padding: 6px 0;">2. Liga</td>
+      <td style="padding: 6px 0;">Ligaen</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">2025</td>
-      <td style="padding: 6px 0;">2. Liga, 4th of 10</td>
+      <td style="padding: 6px 0;">Ligaen, 8th of 10</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Website</td>
-      <td style="padding: 6px 0;">www.rbk.ks</td>
+      <td style="padding: 6px 0;">www.bk-fremad.ks</td>
     </tr>
   </table>
   <!-- Kits -->
@@ -78,7 +78,7 @@ modified: 2026-09-12T11:24:10.479+07:00
 <!-- Away kit -->
 <div style="text-align: center;">
   <img
-    src="https://kyststed.my.id/static/kits/BKF-away.png"
+    src="https://kyststed.my.id/static/kits/BKF-home.png"
     alt="BKF away kit"
     style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
   >
@@ -88,7 +88,7 @@ modified: 2026-09-12T11:24:10.479+07:00
 <!-- Third kit -->
 <div style="text-align: center;">
   <img
-    src="https://kyststed.my.id/static/kits/BKF-third.png"
+    src="https://kyststed.my.id/static/kits/BKF-home.png"
     alt="BKF third kit"
     style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
   >

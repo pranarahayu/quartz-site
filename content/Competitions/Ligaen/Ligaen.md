@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-12T08:49:52.541+07:00
+modified: 2026-09-12T11:36:39.273+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -163,6 +163,23 @@ Dansk Boldklub rejects the distinction between its pre-1942 and post-1942 champi
 By combining its twelve pre-league _Sælmesterskabet_ victories with its ten league titles, Dansk Boldklub claims a total of 22 national championships. Under its interpretation of the seven-title rule, the club is entitled to display three stars.
 
 The official Ligaen record recognizes only the club's ten league championships and therefore permits one star. Dansk Boldklub nevertheless continues to wear three stars above its crest. The club is fined for every match in which the unauthorized stars appear, but has consistently refused to remove them.
+
+### Teams
+
+#### Current teams (2026)
+
+| **Club**                              | **2025 Position** | **First season<br>in top division** | **Number of seasons<br>in top division** | **First season<br>of current spell** | **Number of seasons<br>of current spell** | **Top division<br>titles** | **Last title** |
+| ------------------------------------- | :---------------: | :---------------------------------: | :--------------------------------------: | :----------------------------------: | :---------------------------------------: | :------------------------: | :------------: |
+| [[Alliancen BK 1923]]                 |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Boldklubben Fremad]]                |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Boldklubben Kyststeds Universitet]] |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[FC Kyststed]]                       |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Fortuna Lavvand]]                   |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Grøndal Fodbold]]                   |  1st in 2. Liga   |                2026                 |                    1                     |                 2026                 |                     1                     |             0              |       -        |
+| [[Olympisk Vesterfjeld]]              |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[ØRK]]                               |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Sønderås BK]]                       |                   |                                     |                                          |                                      |                                           |                            |                |
+| [[Viktoria Birkelund]]                |         1         |                                     |                                          |                                      |                                           |             12             |      2025      |
 
 ### Champions
 

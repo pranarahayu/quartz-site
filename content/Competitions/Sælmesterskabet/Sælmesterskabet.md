@@ -2,24 +2,40 @@
 publish: true
 title: Sælmesterskabet
 created: 2026-07-09T14:21:59.966+07:00
-modified: 2026-09-12T08:12:23.037+07:00
+modified: 2026-09-12T10:50:03.609+07:00
 ---
 
-The Sæløsk Cup (often referred to as Sælmesterskabet) is the official "knockout" cup competition in Sæløsk football, run by the Sæløerne Football Association (SBS). It is the oldest football competition in Sæløerne, the first edition was contested in 1918.
+The Sæløsk Cup, commonly referred to by its historic name Sælmesterskabet, is the principal knockout cup competition in Sæløsk football. It is administered by the Sæløernes Boldspil-Sammenslutning (SBS).
+
+First contested in 1918, it is the oldest football competition in Sæløerne.
 
 ### History
 
-Originally contested as the island's premier football tournament, Sælmesterskabet was the official competition used to crown the Sæløsk champions until 1941. With the creation of the SBS and the ambition to establish a unified league system, Sælmesterskabet was replaced by the newly founded Mesterrækken, which took over the mantle of crowning the official top-flight champions.
+The Sælmesterskabet was originally established as an island-wide championship. Before the creation of a unified national league, it brought together leading clubs from the six regional competitions and was used to determine the overall Sæløsk champion.
 
-In 1957, wanting to introduce a national cup competition to the pyramid while honoring the island's footballing heritage, SBS established a new domestic cup and revived the historic Sælmesterskabet name for it. To streamline the record books, SBS subsequently stripped the pre-1942 winners of their "League Champion" status, retroactively reclassifying those early titles as official domestic cup victories instead.
+The competition served as the principal national championship until 1941. Following the establishment of the SBS and the creation of the Mesterrækken in 1942, the league replaced the Sælmesterskabet as the competition used to determine the national champion.
+
+The Sælmesterskabet was not contested between 1942 and 1956. It was revived by the SBS in 1957 as the national knockout cup, allowing the historic name to continue under a new competitive role.
+
+As part of the change, the SBS retroactively reclassified the pre-1942 Sælmesterskabet titles as cup championships rather than league championships. The winners continued to be recognized as national title holders for their period, but their victories were entered in the SBS records as cup honours.
 
 ### Format
 
-All matches are played as single-elimination. If a match ends in a draw, two 15-minute periods of extra time will be played, followed by a penalty shootout if necessary. The only exceptions are the Semifinals, which are played over two legs; the away goals rule applies, and extra time/penalties are only used if the aggregate score remains tied at the end of the second leg.
+The competition follows a knockout format. Every round is played as a single match except the semi-finals, which are contested over two legs.
 
-#### The Participants
+If a single-match tie is level after 90 minutes, two 15-minute periods of extra time are played. If the score remains level, the winner is decided by a penalty shoot-out.
 
-The teams are not seeded, but the lowest placed team from the previous season will always get the home pitch advantage.
+In the semi-finals, each club plays once at home and once away. If the aggregate score is level after the second leg, the club with more away goals advances. If the clubs have scored the same number of away goals, extra time and, if necessary, a penalty shoot-out are used.
+
+### The Participants
+
+All 46 clubs from the four national divisions enter the competition.
+
+The opening stage contains the 28 lowest-ranked clubs, producing fourteen winners. The ten Ligaen clubs and the eight highest-ranked remaining clubs receive byes. These eighteen clubs join the fourteen preliminary-round winners in the round of 32.
+
+The draw is unseeded. In single-match rounds, the lower-ranked club is given home advantage. Ranking is determined first by league level and then by the club's finishing position during the previous season.
+
+The home order for the two-legged semi-finals is determined by the draw.
 
 ##### Until 1941
 
@@ -102,7 +118,7 @@ The teams are not seeded, but the lowest placed team from the previous season wi
 - **Qualifying round 2**, 16 teams
   - 8 teams from Q1
   - 8 teams from 3. Liga (3rd–10th placed)
-- \*\*Play-offs, 20 teams
+- **Play-offs**, 20 teams
   - 8 teams from Q2
   - 2 teams from 3. Liga (1st–2nd placed)
   - 10 teams from 2. Liga
@@ -114,6 +130,16 @@ The teams are not seeded, but the lowest placed team from the previous season wi
   - 3 best runners-up
 
 – and so on until the finals.
+
+### Status of pre-1942 titles
+
+The retroactive reclassification of the early Sælmesterskabet titles remains disputed, most notably by Dansk Boldklub.
+
+Dansk Boldklub won the competition twelve times before 1942 and has also won ten officially recognized league championships. The club regards all 22 victories as national championships because the original Sælmesterskabet was the highest island-wide competition available before the foundation of the Mesterrækken.
+
+Ligaen regulations award one championship star for every seven recognized league titles. Under the official classification, Dansk Boldklub's ten league titles entitle it to one star. By including its twelve pre-1942 Sælmesterskabet titles, the club claims three.
+
+Dansk Boldklub continues to display three stars above its crest despite the Ligaen recognizing only one. The club is fined for every match in which it wears the unauthorized stars.
 
 ### Finals
 
