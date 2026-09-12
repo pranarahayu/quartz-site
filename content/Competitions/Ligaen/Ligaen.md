@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-12T08:24:10.782+07:00
+modified: 2026-09-12T08:49:52.541+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -80,7 +80,7 @@ modified: 2026-09-12T08:24:10.782+07:00
 
 </div>
 
-Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in Sæløerne and the highest level of the [[index|Sæløsk football league system]]. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the [[Ligaforeningen (LF)|Ligaforeningen]].
+Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in Sæløerne and the highest level of the Sæløsk football league system. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the Ligaforeningen (LF).
 
 The competition has previously been known as the Mesterrækken and the Sæløernes Hovedliga. It adopted its present name in 1993, when the top division was reorganized and formally professionalized.
 
@@ -88,7 +88,7 @@ The competition has previously been known as the Mesterrækken and the Sæløern
 
 #### Mesterrækken
 
-Before 1942, football in Sæløerne was organized through six regional championships. The winners of those competitions met in the _[[Sælmesterskabet]]_, a knockout tournament used to determine an overall island champion.
+Before 1942, football in Sæløerne was organized through six regional championships. The winners of those competitions met in the Sælmesterskabet, a knockout tournament used to determine an overall island champion.
 
 Following the establishment of the SBS in 1939, plans were made for a permanent national league. The resulting Mesterrækken began play in 1942, becoming the first competition in which leading clubs from across Sæløerne competed against one another throughout a full league season.
 
@@ -98,7 +98,7 @@ Kyststed Universitets Gymnastik- og Boldspilforening (KUGF) won the inaugural ch
 
 The establishment of the Mesterrækken replaced the _Sælmesterskabet_ as the competition used to determine the principal national champion. Regional championships nevertheless continued to be contested alongside the national league.
 
-A second national division, the [[2. Liga|1. Division]], was introduced in 1952. Promotion and relegation were initially controlled through the **Genvalgssystemet**, under which the seven highest-placed Mesterrækken clubs voted on the composition of the following season's top division.
+A second national division, the 1. Division, was introduced in 1952. Promotion and relegation were initially controlled through the **Genvalgssystemet**, under which the seven highest-placed Mesterrækken clubs voted on the composition of the following season's top division.
 
 The re-election system heavily favoured existing Mesterrækken members. Only two second-tier clubs were admitted to the top flight between its introduction in 1952 and its abolition in 1965.
 
@@ -106,7 +106,7 @@ The re-election system heavily favoured existing Mesterrækken members. Only two
 
 The Genvalgssystemet was abolished ahead of the 1966 season. The Mesterrækken was renamed the **Sæløernes Hovedliga** and expanded from eight to ten clubs. Two automatic promotion and relegation places were introduced, establishing direct movement between the two highest divisions for the first time.
 
-The reform formed part of a wider expansion of the national league system. A third level, the [[3. Liga|2. Division]], was created during the same year, providing a national route into the two senior divisions.
+The reform formed part of a wider expansion of the national league system. A third level, the 2. Division, was created during the same year, providing a national route into the two senior divisions.
 
 Sæløerne's admission to FIFA in 1985 and UEFA in 1987 gave the Hovedliga an international role. League position could thereafter provide qualification for UEFA club competitions, while domestic clubs were required to meet increasingly standardized sporting and administrative requirements.
 
@@ -114,7 +114,7 @@ Sæløerne's admission to FIFA in 1985 and UEFA in 1987 gave the Hovedliga an in
 
 The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively, giving the top three levels their present names.
 
-The [[Ligaforeningen]] was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
+The Ligaforeningen was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
 
 A post-season format was introduced as part of the reorganization. After the initial league phase, the division separated into championship and relegation series. The system remained in use until 2004.
 
@@ -126,7 +126,7 @@ Promotion and relegation were revised in 2020. The bottom-placed Ligaen club was
 
 The Ligaen consists of ten clubs. Each club plays 36 matches during the season, facing every opponent twice at home and twice away.
 
-The club finishing first is declared Sæløsk league champion. The tenth-placed club is relegated automatically to [[2. Liga]], while the ninth-placed club contests a promotion and relegation play-off against the second-placed team from 2. Liga.
+The club finishing first is declared Sæløsk league champion. The tenth-placed club is relegated automatically to 2. Liga, while the ninth-placed club contests a promotion and relegation play-off against the second-placed team from 2. Liga.
 
 Qualification for UEFA competitions is allocated through league position in accordance with the places available to Sæløerne. The precise entry rounds are determined by Sæløerne's position in the UEFA association coefficient rankings.
 
@@ -168,32 +168,32 @@ The official Ligaen record recognizes only the club's ten league championships a
 
 #### Mesterrækken (1942–1965)
 
-| Season   | Champion           | Runner-up          | Top Scorer (club)    | Goals |
-| -------- | ------------------ | ------------------ | -------------------- | ----- |
-| [[1942]] | [[UB\|KUGF]]       | [[Dansk Boldklub]] | Viggo Svanesen (AB)  | 21    |
-| [[1943]] | [[UB\|KUGF]] (2)   | Nyhavn IF          | Viggo Svanesen (AB)  | 25    |
-| 1944     |                    |                    |                      |       |
-| [[1945]] | ØBK                | UB                 | Lars Møller (ØBK)    | 19    |
-| [[1946]] | ØBK (2)            | Dansk Boldklub     | Lars Møller (ØBK)    | 23    |
-| [[1947]] | NIF                | ØBK Østereng       | Jens Christian (NIF) | 22    |
-| [[1948]] | Dansk Boldklub     | Nyhavn IF          | Jens Christian (NIF) | 19    |
-| [[1949]] | Sønderås BK        | Dansk Boldklub     | Kasper Lund (DB)     | 18    |
-| [[1950]] | AB (3)             | ØBK Østereng       | Henrik Poulsen (DB)  | 20    |
-| [[1951]] | NIF (2)            | AB                 | Jens Christian (NIF) | 23    |
-| [[1952]] | AB (4)             | Dansk Boldklub     | Mads Sørensen (B23)  | 19    |
-| 1953     | Dansk Boldklub (2) |                    |                      |       |
-| 1954     | Dansk Boldklub (3) |                    |                      |       |
-| 1955     | Dansk Boldklub (4) |                    |                      |       |
-| 1956     | AB (5)             |                    |                      |       |
-| 1957     | ØBK (3)            |                    |                      |       |
-| 1958     | Dansk Boldklub (5) |                    |                      |       |
-| 1959     | Rødpil IF          |                    |                      |       |
-| 1960     | AB (6)             |                    |                      |       |
-| 1961     | Sønderås BK (2)    |                    |                      |       |
-| 1962     | Sønderås BK (3)    |                    |                      |       |
-| 1963     | NIF (3)            |                    |                      |       |
-| 1964     | ØBK (4)            |                    |                      |       |
-| 1965     | AB (7)             |                    |                      |       |
+| Season | Champion           | Runner-up      | Top Scorer (club)    | Goals |
+| ------ | ------------------ | -------------- | -------------------- | ----- |
+| 1942   | KUGF               | Dansk Boldklub | Viggo Svanesen (AB)  | 21    |
+| 1943   | KUGF(2)            | Nyhavn IF      | Viggo Svanesen (AB)  | 25    |
+| 1944   |                    |                |                      |       |
+| 1945   | ØBK                | UB             | Lars Møller (ØBK)    | 19    |
+| 1946   | ØBK (2)            | Dansk Boldklub | Lars Møller (ØBK)    | 23    |
+| 1947   | NIF                | ØBK Østereng   | Jens Christian (NIF) | 22    |
+| 1948   | Dansk Boldklub     | Nyhavn IF      | Jens Christian (NIF) | 19    |
+| 1949   | Sønderås BK        | Dansk Boldklub | Kasper Lund (DB)     | 18    |
+| 1950   | AB (3)             | ØBK Østereng   | Henrik Poulsen (DB)  | 20    |
+| 1951   | NIF (2)            | AB             | Jens Christian (NIF) | 23    |
+| 1952   | AB (4)             | Dansk Boldklub | Mads Sørensen (B23)  | 19    |
+| 1953   | Dansk Boldklub (2) |                |                      |       |
+| 1954   | Dansk Boldklub (3) |                |                      |       |
+| 1955   | Dansk Boldklub (4) |                |                      |       |
+| 1956   | AB (5)             |                |                      |       |
+| 1957   | ØBK (3)            |                |                      |       |
+| 1958   | Dansk Boldklub (5) |                |                      |       |
+| 1959   | Rødpil IF          |                |                      |       |
+| 1960   | AB (6)             |                |                      |       |
+| 1961   | Sønderås BK (2)    |                |                      |       |
+| 1962   | Sønderås BK (3)    |                |                      |       |
+| 1963   | NIF (3)            |                |                      |       |
+| 1964   | ØBK (4)            |                |                      |       |
+| 1965   | AB (7)             |                |                      |       |
 
 #### Sæløernes Hovedliga (1966–1992)
 
