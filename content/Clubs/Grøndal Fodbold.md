@@ -2,7 +2,7 @@
 publish: true
 title: Grøndal Fodbold
 created: 2026-09-12T11:37:15.178+07:00
-modified: 2026-09-12T12:19:46.827+07:00
+modified: 2026-09-12T15:40:23.069+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -55,47 +55,22 @@ modified: 2026-09-12T12:19:46.827+07:00
       <td style="padding: 6px 0;">www.groendalfodbold.ks</td>
     </tr>
   </table>
-  <!-- Kits -->
-<div style="clear: both; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--background-modifier-border);">
-
-  <div style="text-align: center; font-weight: bold; margin-bottom: 8px;">
-    Kits
-  </div>
-
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
-
-```
-<!-- Home kit -->
+<!-- Kits -->
+<div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--background-modifier-border);">
+<div style="text-align: center; font-weight: bold; margin-bottom: 8px;">Kits</div>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/GRO-home.png"
-    alt="GRO home kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Home</div>
+<img src="https://kyststed.my.id/static/kits/GRO-home.png" alt="GRO home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Home</div>
 </div>
-
-<!-- Away kit -->
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/GRO-home.png"
-    alt="GRO away kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Away</div>
+<img src="https://kyststed.my.id/static/kits/GRO-away.png" alt="GRO away kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Away</div>
 </div>
-
-<!-- Third kit -->
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/GRO-home.png"
-    alt="GRO third kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Third</div>
+<img src="https://kyststed.my.id/static/kits/GRO-third.png" alt="GRO third kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Third</div>
 </div>
-```
-
-  </div>
+</div>
 </div>
 </div>

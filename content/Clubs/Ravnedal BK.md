@@ -2,7 +2,7 @@
 publish: true
 title: Ravnedal Boldklub
 created: 2026-09-12T08:24:11.822+07:00
-modified: 2026-09-12T11:24:10.479+07:00
+modified: 2026-09-12T15:42:45.840+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -55,47 +55,22 @@ modified: 2026-09-12T11:24:10.479+07:00
       <td style="padding: 6px 0;">www.rbk.ks</td>
     </tr>
   </table>
-  <!-- Kits -->
-<div style="clear: both; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--background-modifier-border);">
-
-  <div style="text-align: center; font-weight: bold; margin-bottom: 8px;">
-    Kits
-  </div>
-
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
-
-```
-<!-- Home kit -->
+<!-- Kits -->
+<div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--background-modifier-border);">
+<div style="text-align: center; font-weight: bold; margin-bottom: 8px;">Kits</div>
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/BKF-home.png"
-    alt="BKF home kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Home</div>
+<img src="https://kyststed.my.id/static/kits/RBK-home.png" alt="RBK home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Home</div>
 </div>
-
-<!-- Away kit -->
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/BKF-away.png"
-    alt="BKF away kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Away</div>
+<img src="https://kyststed.my.id/static/kits/RBK-away.png" alt="RBK away kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Away</div>
 </div>
-
-<!-- Third kit -->
 <div style="text-align: center;">
-  <img
-    src="https://kyststed.my.id/static/kits/BKF-third.png"
-    alt="BKF third kit"
-    style="display: block; width: 75px; height: 95px; object-fit: contain; margin: 0 auto;"
-  >
-  <div style="font-size: 0.8em; margin-top: 4px;">Third</div>
+<img src="https://kyststed.my.id/static/kits/RBK-third.png" alt="RBK third kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<div style="font-size: 0.8em; margin-top: 4px;">Third</div>
 </div>
-```
-
-  </div>
+</div>
 </div>
 </div>
