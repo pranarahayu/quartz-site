@@ -2,14 +2,14 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-12T08:56:30.481+07:00
+modified: 2026-09-13T09:18:59.121+07:00
 ---
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
 
 Football is governed nationally by the Sæløernes Boldspil-Sammenslutning (SBS). Despite Sæløerne not being a sovereign state, the association has held membership of FIFA since 1985 and UEFA since 1987.
 
-The domestic game is organized through a four-level national league system, the Sælmesterskabet national cup and six regional football associations. The Ligaforeningen administers the professional Ligaen, while the lower national divisions remain under the direct administration of the SBS.
+The domestic game is organized through a four-level national league system, the Sælmesterskabet national cup, and six regional football associations. The Ligaforeningen administers the professional Ligaen, while the lower national divisions remain under the direct administration of the SBS.
 
 ### History
 
@@ -27,7 +27,7 @@ Football outside the capital developed under five additional regional bodies: No
 
 The first island-wide competition was the Sælmesterskabet, first contested in 1918. The knockout tournament brought together the champions of all six regions, as well as the runners-up and third-placed club from the Kyststed Hovedstad Championship.
 
-The quarter-final draw paired each of the three Kyststed representatives with a regional champion, while the remaining two regional champions faced one another. Capital clubs were generally stronger than their provincial opponents, and three of the four semi-finalists frequently came from Kyststed Hovedstad.
+The draw was intentionally structured so that each team from the Kyststed Hovedstad faced a champion from the other regions. Because the capital clubs were significantly stronger than their provincial counterparts, this meant that, more often than not, three of the four semi-finalists were from Kyststed Hovedstad.
 
 Although the tournament produced an overall Sæløsk champion, it did not constitute a unified league. The regional associations remained independent, with no central authority responsible for common competition rules or movement between regions.
 
@@ -96,4 +96,4 @@ The same system was introduced between 2. Liga and 3. Liga. The bottom club in 2
 
 Youth football is administered by the SBS in cooperation with the six regional associations. Competitions are organized across six age groups, with most early-stage football played regionally to limit travel between the islands.
 
-The youth system serves both community clubs and the academies of clubs competing in the national divisions. Development standards introduced after the SBS gained international recognition have placed greater emphasis on coaching education, facilities and structured competition.
+The youth system serves both community clubs and the academies of clubs competing in the national divisions. Development standards introduced after the SBS gained international recognition have placed greater emphasis on coaching education, facilities, and structured competition.

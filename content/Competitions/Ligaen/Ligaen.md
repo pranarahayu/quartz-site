@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-12T11:36:39.273+07:00
+modified: 2026-09-13T09:49:37.762+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -24,11 +24,11 @@ modified: 2026-09-12T11:36:39.273+07:00
   <table style="width: 100%; border-collapse: collapse; background: transparent; border: none;">
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; width: 45%; vertical-align: top;">Founded</td>
-      <td style="padding: 6px 0;">1942; 84 years ago<br><span style="color: var(--text-muted); font-size: 0.9em;">(as <a class="internal-link" href="Mesterrækken">Mesterrækken</a>)</span></td>
+      <td style="padding: 6px 0;">1942; 84 years ago<br><span style="color: var(--text-muted); font-size: 0.9em;">(as <a class="internal-link" href="Ligaen">Mesterrækken</a>)</span></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Country</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Kyststed">Kyststed</a></td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Sæløerne">Sæløerne</a></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Confederation</td>
@@ -60,7 +60,7 @@ modified: 2026-09-12T11:36:39.273+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Akademisk Boldklub">AB</a> (19 titles)</td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Boldklubben Kyststeds Universitet">Boldklubben Kyststeds Universitet</a> (19 titles)</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Broadcaster(s)</td>
@@ -80,7 +80,7 @@ modified: 2026-09-12T11:36:39.273+07:00
 
 </div>
 
-Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is a professional association football league in Sæløerne and the highest level of the Sæløsk football league system. The league is currently contested by 10 teams each year, with 2 teams relegated. It is the current Sæløsk football championship tournament, and administered by the Ligaforeningen (LF).
+Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is the highest division of the Sæløsk football league system. It is a fully professional league contested by ten clubs and administered by the Ligaforeningen (LF).
 
 The competition has previously been known as the Mesterrækken and the Sæløernes Hovedliga. It adopted its present name in 1993, when the top division was reorganized and formally professionalized.
 
@@ -132,7 +132,7 @@ Qualification for UEFA competitions is allocated through league position in acco
 
 ### Administration
 
-The Ligaen is administered by the Ligaforeningen, whose membership consists of the ten participating clubs. The LF is responsible for fixture scheduling, commercial agreements, broadcasting rights, league branding and common operational standards.
+The Ligaen is administered by the Ligaforeningen, whose membership consists of the ten participating clubs. The LF is responsible for fixture scheduling, commercial agreements, broadcasting rights, league branding, and common operational standards.
 
 The SBS retains authority over competition regulations, refereeing, disciplinary proceedings and club licensing. Changes to the competition's sporting format require SBS approval.
 
@@ -158,7 +158,7 @@ Titles won in the _Sælmesterskabet_ before 1942 do not count towards the award.
 
 Dansk Boldklub has won ten officially recognized league championships, entitling the club to display one star under Ligaen regulations. The club also won the _Sælmesterskabet_ twelve times before the creation of the Mesterrækken.
 
-Dansk Boldklub rejects the distinction between its pre-1942 and post-1942 championships. It argues that the original _Sælmesterskabet_ was the highest island-wide competition available at the time and that its winners were recognized contemporaneously as national champions.
+Dansk Boldklub rejects the distinction between its pre-1942 and post-1942 championships. The club argues that the original _Sælmesterskabet_ was the highest island-wide competition available at the time and that its winners were recognized contemporaneously as national champions.
 
 By combining its twelve pre-league _Sælmesterskabet_ victories with its ten league titles, Dansk Boldklub claims a total of 22 national championships. Under its interpretation of the seven-title rule, the club is entitled to display three stars.
 
