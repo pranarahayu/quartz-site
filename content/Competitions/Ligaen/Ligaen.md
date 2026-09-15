@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-14T06:46:18.066+07:00
+modified: 2026-09-15T10:09:48.836+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -80,7 +80,7 @@ modified: 2026-09-14T06:46:18.066+07:00
 
 </div>
 
-Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reason) is the highest division of the Sæløsk football league system. It is a fully professional league contested by ten clubs and administered by the Ligaforeningen (LF).
+Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reasons) is the highest division of the Sæløsk football league system. It is a fully professional league contested by ten clubs and administered by the Ligaforeningen (LF).
 
 The competition has previously been known as the Mesterrækken and the Sæløernes Hovedliga. It adopted its present name in 1993, when the top division was reorganized and formally professionalized.
 
@@ -104,7 +104,7 @@ The re-election system heavily favoured existing Mesterrækken members. Only two
 
 #### Sæløernes Hovedliga
 
-The Genvalgssystemet was abolished ahead of the 1966 season. The Mesterrækken was renamed the **Sæløernes Hovedliga** and expanded from eight to ten clubs. Two automatic promotion and relegation places were introduced, establishing direct movement between the two highest divisions for the first time.
+The top division was renamed the Sæløernes Hovedliga and expanded from eight to ten clubs in 1966. The two additional places were filled by the champion and runner-up of the 1965 1. Division season, following the abolition of the Genvalgssystemet. After the expansion, one automatic promotion and relegation place operated between the Hovedliga and 1. Division.
 
 The reform formed part of a wider expansion of the national league system. A third level, the 2. Division, was created during the same year, providing a national route into the two senior divisions.
 
@@ -112,7 +112,7 @@ Sæløerne's admission to FIFA in 1985 and UEFA in 1987 gave the Hovedliga an in
 
 #### Professional era
 
-The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively, giving the top three levels their present names.
+The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively, giving the top three levels their present names. The reorganization also introduced two automatic promotion and relegation places between Ligaen and 2. Liga and between 2. Liga and 3. Liga.
 
 The Ligaforeningen was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
 

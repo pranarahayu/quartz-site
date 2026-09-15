@@ -2,7 +2,7 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-13T09:18:59.121+07:00
+modified: 2026-09-15T10:10:14.447+07:00
 ---
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
@@ -65,13 +65,13 @@ A second national level was introduced in 1952 as the **1. Division**. Both the 
 
 Movement between the two divisions was controlled through the **Genvalgssystemet**, a re-election system under which the top seven clubs in the Mesterrækken voted on which clubs would compete in the division during the following season. The system allowed established top-flight clubs to protect their positions and provided little opportunity for clubs from the second tier. Only two clubs gained promotion through re-election between 1952 and 1965.
 
-The Genvalgssystemet was abolished before the 1966 season. The Mesterrækken was renamed the **Sæløernes Hovedliga** and expanded from eight to ten clubs, with one automatic promotion and relegation places introduced between the top two divisions.
+The Genvalgssystemet was used for the final time following the 1964 season. In 1965, the 1. Division champion and runner-up were promoted automatically to fill the two additional places in the expanded Sæløernes Hovedliga, which began play in 1966. Thereafter, one automatic promotion and relegation place operated between the two highest divisions.
 
 A third national level, the **2. Division**, was created as part of the same reorganization. Its eight clubs were divided into two groups, which competed for one promotion place to the 1. Division.
 
 The next major expansion took place in 1982. The 1. Division increased from eight to twelve clubs, extending its regular season to 22 matches per team. The 2. Division was also expanded to twelve clubs.
 
-In 1993, the top flight became fully professional and was renamed Ligaen. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively. The third tier's regional groups were replaced by a single national division, and the top three levels were standardized at ten clubs each.
+In 1993, the top flight became fully professional and was renamed Ligaen. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively. The third tier's regional groups were replaced by a single national division, and the top three levels were standardized at ten clubs each. The reorganization also introduced two automatic promotion and relegation places between Ligaen and 2. Liga and between 2. Liga and 3. Liga.
 
 The Ligaforeningen was established during the same reorganization to represent the Ligaen clubs and administer the professional top division. The lower divisions remained under the SBS.
 
