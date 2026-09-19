@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-19T13:50:31.351+07:00
+modified: 2026-09-19T14:17:17.878+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -152,20 +152,58 @@ The competition is currently marketed as the **Boreas-Ligaen** under its title s
 
 #### Current teams (2026)
 
-| **Club**                      | **2025 Position**  | **First season<br>in top division** | **Number of seasons<br>in top division** | **First season<br>of current spell** | **Number of seasons<br>of current spell** | **Top division<br>titles** | **Last title** |
-| ----------------------------- | :----------------: | :---------------------------------: | :--------------------------------------: | :----------------------------------: | :---------------------------------------: | :------------------------: | :------------: |
-| [[Alliancen BK 1923]]         |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Boldklubben Fremad]]        |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Studenterklubben Kyststed]] |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[FC Kyststed]]               |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Fortuna Lavvand]]           |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Grøndal Fodbold]]           | 1st in [[2. Liga]] |                2026                 |                    1                     |                 2026                 |                     1                     |             0              |       -        |
-| [[Olympisk Vesterfjeld]]      |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[ØRK]]                       |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Sønderås BK]]               |                    |                                     |                                          |                                      |                                           |                            |                |
-| [[Viktoria Birkelund]]        |        1st         |                                     |                                          |                                      |                                           |             12             |      2025      |
+| **Club**                      | **2025 Position**  | **Location** | **Stadium** |
+| ----------------------------- | :----------------: | :----------: | :---------: |
+| [[Alliancen BK 1923]]         |                    |              |             |
+| [[Boldklubben Fremad]]        |                    |              |             |
+| [[Studenterklubben Kyststed]] |                    |              |             |
+| [[FC Kyststed]]               |                    |              |             |
+| [[Fortuna Lavvand]]           |                    |              |             |
+| [[Grøndal Fodbold]]           | 1st in [[2. Liga]] |              |             |
+| [[Olympisk Vesterfjeld]]      |                    |              |             |
+| [[ØRK]]                       |                    |              |             |
+| [[Sønderås BK]]               |                    |              |             |
+| [[Viktoria Birkelund]]        |        1st         |              |             |
 
 #### Seasons in Top Division
+
+A total of 33 clubs have competed in the 84 seasons of the Sæløsk top division played between 1942 and 2026. No competition was held in 1944. Clubs shown in **bold** currently compete in Ligaen. Studenterklubben Kyststed and Sønderås BK are the only two clubs to have competed in all 84 seasons.
+
+| Team                          | Seasons | Longest Consecutive Seasons | First Season | Last Season |
+| ----------------------------- | :-----: | :-------------------------: | :----------: | :---------: |
+| **Studenterklubben Kyststed** |   84    |             84              |     1942     |    2026     |
+| **Sønderås BK**               |   84    |             84              |     1942     |    2026     |
+| Dansk Boldklub                |   54    |             48              |     1942     |    2025     |
+| **Boldklubben Fremad**        |   54    |             34              |     1967     |    2026     |
+| **Viktoria Birkelund**        |   51    |             27              |     1969     |    2026     |
+| Ravnedal BK                   |   42    |             19              |     1966     |    2024     |
+| ØBK Østereng                  |   38    |             33              |     1942     |    1983     |
+| **ØRK**                       |   36    |             18              |     1984     |    2026     |
+| **Fortuna Lavvand**           |   36    |             12              |     1974     |    2026     |
+| Nyhavn IF                     |   29    |             29              |     1942     |    1971     |
+| **FC Kyststed**               |   28    |             28              |     1999     |    2026     |
+| **Olympisk Vesterfjeld**      |   28    |             12              |     1991     |    2026     |
+| RB Nyhavn                     |   27    |              8              |     1978     |    2021     |
+| Vesterfjeld IF                |   24    |             24              |     1942     |    1966     |
+| Boldklubben 1923              |   23    |             19              |     1942     |    1973     |
+| Fiskerodde FF                 |   22    |             19              |     1977     |    2002     |
+| Færgeby GF                    |   22    |             10              |     1968     |    2000     |
+| Union Kastellet               |   19    |              9              |     1962     |    2017     |
+| ØB Luffe                      |   15    |              4              |     1975     |    2019     |
+| Gammelsted FF                 |   14    |             14              |     1942     |    1956     |
+| Rødpil IF                     |   13    |             13              |     1957     |    1969     |
+| **Alliancen BK 1923**         |   12    |              9              |     2014     |    2026     |
+| BK Union                      |   10    |              3              |     1993     |    2024     |
+| Skovdal IF                    |    9    |              4              |     2003     |    2018     |
+| Birkelund B\&I                 |    6    |              3              |     2000     |    2011     |
+| Tårnby Boldklub               |    5    |              3              |     1966     |    1974     |
+| Nordborg IK                   |    2    |              2              |     2006     |    2007     |
+| AC Stormkyst                  |    2    |              1              |     2015     |    2020     |
+| Boldklubben 1917              |    1    |              1              |     1996     |    1996     |
+| **Grøndal Fodbold**           |    1    |              1              |     2026     |    2026     |
+| Guldager IF                   |    1    |              1              |     1988     |    1988     |
+| Marielund Ulf                 |    1    |              1              |     2023     |    2023     |
+| Solkysten IF                  |    1    |              1              |     1981     |    1981     |
 
 ### Champions
 
@@ -313,8 +351,8 @@ Ligaen regulations allow clubs to display one championship star for every seven 
 
 Titles won in the Sælmesterskabet before 1942 do not count towards the award. Although the tournament originally determined the overall champion of Sæløerne, its pre-1942 winners were retroactively classified as cup winners when the competition was reintroduced as the national cup in 1957.
 
-![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail)![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail) [[Studenterklubben Kyststed]] (19)
-![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail)  [[Viktoria Birkelund]] (12), [[Dansk Boldklub]] (10), [[FC Kyststed]] (7)
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail)![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail)[[Studenterklubben Kyststed]] (19)<br>
+![](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png?utm_source=en.wikipedia.org\&utm_campaign=parser\&utm_content=thumbnail)[[Viktoria Birkelund]] (12), [[Dansk Boldklub]] (10), [[FC Kyststed]] (7)
 
 ##### Dansk Boldklub dispute
 
