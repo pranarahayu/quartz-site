@@ -2,14 +2,14 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-19T08:44:09.996+07:00
+modified: 2026-09-19T09:31:52.615+07:00
 ---
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
 
 Football is governed nationally by the [[Sæløernes Boldspil-Sammenslutning (SBS)]]. Despite Sæløerne not being a sovereign state, the association has held membership of FIFA since 1985 and UEFA since 1987.
 
-The domestic game is organized through a four-level national league system, the [[Sælmesterskabet]] national cup, and six regional football associations. The [[Ligaforeningen]] administers the professional [[Ligaen]], while the lower national divisions remain under the direct administration of the SBS.
+The domestic game is organized through a four-level national league system, the [[Competitions/Sælmesterskabet/Sælmesterskabet|Sælmesterskabet]] national cup, and six regional football associations. The [[Ligaforeningen]] administers the professional [[Competitions/Ligaen/Ligaen|Ligaen]], while the lower national divisions remain under the direct administration of the SBS.
 
 ### History
 
@@ -25,7 +25,7 @@ The early game remained concentrated around Kyststed. In 1907, the Hovedstadens 
 
 Football outside the capital developed under five additional regional bodies: Nordmarkens Fodboldforbund (NFF), Østlandets Fodboldforbund (ØFF), Sønderkystens Fodboldforbund (SøFF), Vestskærgårdens Fodboldforbund (VFF) and Luffes Fodboldforbund (LFF). Each association organized its own championship, and clubs competed primarily within their respective regions.
 
-The first island-wide competition was the [[Sælmesterskabet]], first contested in 1918. The knockout tournament brought together the champions of all six regions, as well as the runners-up and third-placed club from the Kyststed Hovedstad Championship.
+The first island-wide competition was the Sælmesterskabet, first contested in 1918. The knockout tournament brought together the champions of all six regions, as well as the runners-up and third-placed club from the Kyststed Hovedstad Championship.
 
 The draw was intentionally structured so that each team from the Kyststed Hovedstad faced a champion from the other regions. Because the capital clubs were significantly stronger than their provincial counterparts, this meant that, more often than not, three of the four semi-finalists were from Kyststed Hovedstad.
 
@@ -35,7 +35,7 @@ Although the tournament produced an overall Sæløsk champion, it did not consti
 
 Growing interest in football during the 1930s increased support for a national governing body. The [[Sæløernes Boldspil-Sammenslutning (SBS)|Sæløernes Boldspil-Sammenslutning]] was founded in 1939 to standardize regulations and coordinate football across the territory.
 
-The SBS introduced the [[Ligaen|Mesterrækken]] in 1942 as Sæløerne's first national league. Its inaugural season contained eight clubs: three from Kyststed Hovedstad and one from each of the other five regions. The teams played a double round-robin schedule of fourteen matches.
+The SBS introduced the [[Competitions/Ligaen/Ligaen|Mesterrækken]] in 1942 as Sæløerne's first national league. Its inaugural season contained eight clubs: three from Kyststed Hovedstad and one from each of the other five regions. The teams played a double round-robin schedule of fourteen matches.
 
 The establishment of the Mesterrækken ended the use of the Sælmesterskabet to determine the principal national champion. Regional competitions nevertheless continued alongside the national league.
 
@@ -53,21 +53,21 @@ Sæløsk clubs became eligible to enter UEFA competitions following the SBS's ad
 
 ### League system
 
-The Sæløsk football league system consists of four national levels. The top three levels are unified divisions, while the fourth-tier [[Lokalligaen]] is divided into northern and southern groups.
+The Sæløsk football league system consists of four national levels. The top three levels are unified divisions, while the fourth-tier [[Competitions/Lokalligaen/Lokalligaen|Lokalligaen]] is divided into northern and southern groups.
 
-The [[Ligaforeningen]] administers [[Ligaen]] on behalf of its ten member clubs. The SBS directly administers [[2. Liga]], [[3. Liga]], and the [[Lokalligaen]]. The six regional associations remain responsible for regional, grassroots and youth football.
+The Ligaforeningen administers Ligaen on behalf of its ten member clubs. The SBS directly administers [[Competitions/2. Liga/2. Liga|2. Liga]], [[Competitions/3. Liga/3. Liga|3. Liga]], and the Lokalligaen. The six regional associations remain responsible for regional, grassroots and youth football.
 
 Ligaen is fully professional. The second tier includes both professional and semi-professional clubs, while the third and fourth tiers consist mainly of semi-professional and amateur teams.
 
 #### Development
 
-A second national level was introduced in 1952 as the [[2. Liga|1. Division]]. Both the Mesterrækken and the new division initially contained eight clubs.
+A second national level was introduced in 1952 as the [[Competitions/2. Liga/2. Liga|1. Division]]. Both the Mesterrækken and the new division initially contained eight clubs.
 
 Movement between the two divisions was controlled through the **Genvalgssystemet**, a re-election system under which the top seven clubs in the Mesterrækken voted on which clubs would compete in the division during the following season. The system allowed established top-flight clubs to protect their positions and provided little opportunity for clubs from the second tier. Only two clubs gained promotion through re-election between 1952 and 1965.
 
-The Genvalgssystemet was used for the final time following the 1964 season. In 1965, the 1. Division champion and runner-up were promoted automatically to fill the two additional places in the expanded [[Ligaen|Sæløernes Hovedliga]], which began play in 1966. Thereafter, one automatic promotion and relegation place operated between the two highest divisions.
+The Genvalgssystemet was used for the final time following the 1964 season. In 1965, the 1. Division champion and runner-up were promoted automatically to fill the two additional places in the expanded [[Competitions/Ligaen/Ligaen|Sæløernes Hovedliga]], which began play in 1966. Thereafter, one automatic promotion and relegation place operated between the two highest divisions.
 
-A third national level, the [[3. Liga|2. Division]], was created as part of the same reorganization. Its eight clubs were divided into two groups, which competed for one promotion place to the 1. Division.
+A third national level, the [[Competitions/3. Liga/3. Liga|2. Division]], was created as part of the same reorganization. Its eight clubs were divided into two groups, which competed for one promotion place to the 1. Division.
 
 The next major expansion took place in 1982. The 1. Division increased from eight to twelve clubs, extending its regular season to 22 matches per team. The 2. Division was also expanded to twelve clubs.
 
@@ -77,7 +77,7 @@ The Ligaforeningen was established during the same reorganization to represent t
 
 A championship and relegation split was initially used in Ligaen following the 1993 reorganization. It remained in place until 2004, when it was replaced by a quadruple round-robin schedule in which every club faced each opponent four times.
 
-The Lokalligaen was introduced as the fourth national level in 2004. It was originally divided into four regional groups. In 2018, the competition was reorganized into two groups, [[Lokalligaen|Lokalligaen Nord]] and [[Lokalligaen|Lokalligaen Syd]], each containing eight clubs.
+The Lokalligaen was introduced as the fourth national level in 2004. It was originally divided into four regional groups. In 2018, the competition was reorganized into two groups, [[Competitions/Lokalligaen/Lokalligaen|Lokalligaen Nord]] and [[Competitions/Lokalligaen/Lokalligaen|Lokalligaen Syd]], each containing eight clubs.
 
 A further change to promotion and relegation was introduced in 2020. Between Ligaen and 2. Liga, the bottom club in Ligaen was relegated automatically and replaced by the 2. Liga champion, while the ninth-placed Ligaen club entered a play-off against the 2. Liga runner-up.
 
@@ -85,12 +85,12 @@ The same system was introduced between 2. Liga and 3. Liga. The bottom club in 2
 
 #### Current structure
 
-| Level |                                                     Leagues/Divisions                                                      |
-| :---: | :------------------------------------------------------------------------------------------------------------------------: |
-|   1   |                    [[Ligaen]]<br><small>_10 Clubs_</small><br><small>_1 or 2 relegation spots_</small>                     |
-|   2   |        [[2. Liga]]<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 1 or 2 relegation spots_</small>        |
-|   3   |          [[3. Liga]]<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 2 relegation spots_</small>           |
-|   4   | [[Lokalligaen]]<br><small>_Nord - 8 Clubs_</small><br><small>_Syd - 8 Clubs_</small><br><small>_2 promotion spots_</small> |
+| Level |                                                                        Leagues/Divisions                                                                         |
+| :---: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   1   |                         [[Competitions/Ligaen/Ligaen\|Ligaen]]<br><small>_10 Clubs_</small><br><small>_1 or 2 relegation spots_</small>                          |
+|   2   |            [[Competitions/2. Liga/2. Liga\|2. Liga]]<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 1 or 2 relegation spots_</small>            |
+|   3   |              [[Competitions/3. Liga/3. Liga\|3. Liga]]<br><small>_10 Clubs_</small><br><small>_1 or 2 promotion spots, 2 relegation spots_</small>               |
+|   4   | [[Competitions/Lokalligaen/Lokalligaen\|Lokalligaen]]<br><small>_Nord - 8 Clubs_</small><br><small>_Syd - 8 Clubs_</small><br><small>_2 promotion spots_</small> |
 
 ### Youth football
 
