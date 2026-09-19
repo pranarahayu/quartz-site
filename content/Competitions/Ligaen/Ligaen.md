@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-15T10:09:48.836+07:00
+modified: 2026-09-19T08:57:51.558+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -15,7 +15,7 @@ modified: 2026-09-15T10:09:48.836+07:00
 
 <div style="text-align: center; margin-bottom: 10px;">
 	<img
-	src="https://kyststed.my.id/static/Ligaen.png" alt="Ligaen logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
+	src="https://kyststed.my.id/static/Ligaen (2).png" alt="Ligaen logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
 	>
 </div>
 
@@ -48,7 +48,7 @@ modified: 2026-09-15T10:09:48.836+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Domestic cup(s)</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Sælmesterskabet">Sælmesterskabet</a></td>
+      <td style="padding: 6px 0;"><a class="internal-link" data-href="Sælmesterskabet" href="/competitions/Sælmesterskabet/">Sælmesterskabet</a></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">International cup(s)</td>
@@ -60,7 +60,7 @@ modified: 2026-09-15T10:09:48.836+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boldklubben Kyststeds Universitet">Boldklubben Kyststeds Universitet</a> (19 titles)</td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Studenterklubben Kyststed">Studenterklubben Kyststed</a> (19 titles)</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Broadcaster(s)</td>
@@ -68,7 +68,7 @@ modified: 2026-09-15T10:09:48.836+07:00
     </tr>
     <tr>
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Title Sponsor</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boreas Energi">Boreas Energi</a></td>
+      <td style="padding: 6px 0;">Boreas Energi</td>
     </tr>
   </table>
 
@@ -80,7 +80,7 @@ modified: 2026-09-15T10:09:48.836+07:00
 
 </div>
 
-Sæløsk Ligaen (officially known as **Boreas-Ligaen** for sponsorship reasons) is the highest division of the Sæløsk football league system. It is a fully professional league contested by ten clubs and administered by the Ligaforeningen (LF).
+Sæløsk Ligaen (officially known as Boreas-Ligaen for sponsorship reasons) is the highest division of the [[index|Sæløsk football league system]]. It is a fully professional league contested by ten clubs and administered by the [[Ligaforeningen]] (LF).
 
 The competition has previously been known as the Mesterrækken and the Sæløernes Hovedliga. It adopted its present name in 1993, when the top division was reorganized and formally professionalized.
 
@@ -88,17 +88,17 @@ The competition has previously been known as the Mesterrækken and the Sæløern
 
 #### Mesterrækken
 
-Before 1942, football in Sæløerne was organized through six regional championships. The winners of those competitions met in the Sælmesterskabet, a knockout tournament used to determine an overall island champion.
+Before 1942, football in Sæløerne was organized through six regional championships. The winners of those competitions met in the [[Sælmesterskabet]], a knockout tournament used to determine an overall island champion.
 
-Following the establishment of the SBS in 1939, plans were made for a permanent national league. The resulting Mesterrækken began play in 1942, becoming the first competition in which leading clubs from across Sæløerne competed against one another throughout a full league season.
+Following the establishment of the [[Sæløernes Boldspil-Sammenslutning (SBS)|SBS]] in 1939, plans were made for a permanent national league. The resulting Mesterrækken began play in 1942, becoming the first competition in which leading [[List of football clubs in Sæløerne|clubs from across Sæløerne]] competed against one another throughout a full league season.
 
 The inaugural division contained eight clubs. Three qualified from Kyststed Hovedstad, while each of the other five regions received one place. Every club played the other seven twice, producing a fourteen-match season.
 
-Kyststed Universitets Gymnastik- og Boldspilforening (KUGF) won the inaugural championship in 1942 and retained the title in 1943. ØBK subsequently emerged as an early provincial champion, winning the competition in 1945 and again in 1946.
+[[Studenterklubben Kyststed|Kyststed Universitets Gymnastik- og Boldspilforening (KUGF)]] won the inaugural championship in 1942 and retained the title in 1943. ØBK subsequently emerged as an early provincial champion, winning the competition in 1945 and again in 1946.
 
-The establishment of the Mesterrækken replaced the _Sælmesterskabet_ as the competition used to determine the principal national champion. Regional championships nevertheless continued to be contested alongside the national league.
+The establishment of the Mesterrækken replaced the Sælmesterskabet as the competition used to determine the principal national champion. Regional championships nevertheless continued to be contested alongside the national league.
 
-A second national division, the 1. Division, was introduced in 1952. Promotion and relegation were initially controlled through the **Genvalgssystemet**, under which the seven highest-placed Mesterrækken clubs voted on the composition of the following season's top division.
+A second national division, the [[2. Liga|1. Division]], was introduced in 1952. Promotion and relegation were initially controlled through the **Genvalgssystemet**, under which the seven highest-placed Mesterrækken clubs voted on the composition of the following season's top division.
 
 The re-election system heavily favoured existing Mesterrækken members. Only two second-tier clubs were admitted to the top flight between its introduction in 1952 and its abolition in 1965.
 
@@ -106,15 +106,15 @@ The re-election system heavily favoured existing Mesterrækken members. Only two
 
 The top division was renamed the Sæløernes Hovedliga and expanded from eight to ten clubs in 1966. The two additional places were filled by the champion and runner-up of the 1965 1. Division season, following the abolition of the Genvalgssystemet. After the expansion, one automatic promotion and relegation place operated between the Hovedliga and 1. Division.
 
-The reform formed part of a wider expansion of the national league system. A third level, the 2. Division, was created during the same year, providing a national route into the two senior divisions.
+The reform formed part of a wider expansion of the national league system. A third level, the [[3. Liga|2. Division]], was created during the same year, providing a national route into the two senior divisions.
 
 Sæløerne's admission to FIFA in 1985 and UEFA in 1987 gave the Hovedliga an international role. League position could thereafter provide qualification for UEFA club competitions, while domestic clubs were required to meet increasingly standardized sporting and administrative requirements.
 
 #### Professional era
 
-The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed 2. Liga and 3. Liga respectively, giving the top three levels their present names. The reorganization also introduced two automatic promotion and relegation places between Ligaen and 2. Liga and between 2. Liga and 3. Liga.
+The top division underwent a major reorganization in 1993. It was formally professionalized and renamed the **Ligaen**. The 1. Division and 2. Division were renamed [[2. Liga]] and [[3. Liga]] respectively, giving the top three levels their present names. The reorganization also introduced two automatic promotion and relegation places between Ligaen and 2. Liga and between 2. Liga and 3. Liga.
 
-The Ligaforeningen was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
+The [[Ligaforeningen]] was established in the same year to represent the Ligaen clubs and assume responsibility for the competition's administration and commercial operation. Regulatory authority remained with the SBS.
 
 A post-season format was introduced as part of the reorganization. After the initial league phase, the division separated into championship and relegation series. The system remained in use until 2004.
 
@@ -152,15 +152,15 @@ The competition is currently marketed as the **Boreas-Ligaen** under its title s
 
 Ligaen regulations allow clubs to display one championship star for every seven officially recognized league titles. Only championships won in the Mesterrækken, Sæløernes Hovedliga, and Ligaen are included in the official total.
 
-Titles won in the _Sælmesterskabet_ before 1942 do not count towards the award. Although the tournament originally determined the overall champion of Sæløerne, its pre-1942 winners were retroactively classified as cup winners when the competition was reintroduced as the national cup in 1957.
+Titles won in the [[Sælmesterskabet]] before 1942 do not count towards the award. Although the tournament originally determined the overall champion of Sæløerne, its pre-1942 winners were retroactively classified as cup winners when the competition was reintroduced as the national cup in 1957.
 
 #### Dansk Boldklub dispute
 
-Dansk Boldklub has won ten officially recognized league championships, entitling the club to display one star under Ligaen regulations. The club also won the _Sælmesterskabet_ twelve times before the creation of the Mesterrækken.
+[[Dansk Boldklub]] has won ten officially recognized league championships, entitling the club to display one star under Ligaen regulations. The club also won the Sælmesterskabet twelve times before the creation of the Mesterrækken.
 
 Dansk Boldklub rejects the distinction between its pre-1942 and post-1942 championships. The club argues that the original _Sælmesterskabet_ was the highest island-wide competition available at the time and that its winners were recognized contemporaneously as national champions.
 
-By combining its twelve pre-league _Sælmesterskabet_ victories with its ten league titles, Dansk Boldklub claims a total of 22 national championships. Under its interpretation of the seven-title rule, the club is entitled to display three stars.
+By combining its twelve pre-league Sælmesterskabet victories with its ten league titles, Dansk Boldklub claims a total of 22 national championships. Under its interpretation of the seven-title rule, the club is entitled to display three stars.
 
 The official Ligaen record recognizes only the club's ten league championships and therefore permits one star. Dansk Boldklub nevertheless continues to wear three stars above its crest. The club is fined for every match in which the unauthorized stars appear, but has consistently refused to remove them.
 
@@ -168,18 +168,18 @@ The official Ligaen record recognizes only the club's ten league championships a
 
 #### Current teams (2026)
 
-| **Club**                              | **2025 Position** | **First season<br>in top division** | **Number of seasons<br>in top division** | **First season<br>of current spell** | **Number of seasons<br>of current spell** | **Top division<br>titles** | **Last title** |
-| ------------------------------------- | :---------------: | :---------------------------------: | :--------------------------------------: | :----------------------------------: | :---------------------------------------: | :------------------------: | :------------: |
-| [[Alliancen BK 1923]]                 |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Boldklubben Fremad]]                |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Boldklubben Kyststeds Universitet]] |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[FC Kyststed]]                       |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Fortuna Lavvand]]                   |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Grøndal Fodbold]]                   |  1st in 2. Liga   |                2026                 |                    1                     |                 2026                 |                     1                     |             0              |       -        |
-| [[Olympisk Vesterfjeld]]              |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[ØRK]]                               |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Sønderås BK]]                       |                   |                                     |                                          |                                      |                                           |                            |                |
-| [[Viktoria Birkelund]]                |         1         |                                     |                                          |                                      |                                           |             12             |      2025      |
+| **Club**                      | **2025 Position**  | **First season<br>in top division** | **Number of seasons<br>in top division** | **First season<br>of current spell** | **Number of seasons<br>of current spell** | **Top division<br>titles** | **Last title** |
+| ----------------------------- | :----------------: | :---------------------------------: | :--------------------------------------: | :----------------------------------: | :---------------------------------------: | :------------------------: | :------------: |
+| [[Alliancen BK 1923]]         |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Boldklubben Fremad]]        |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Studenterklubben Kyststed]] |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[FC Kyststed]]               |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Fortuna Lavvand]]           |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Grøndal Fodbold]]           | 1st in [[2. Liga]] |                2026                 |                    1                     |                 2026                 |                     1                     |             0              |       -        |
+| [[Olympisk Vesterfjeld]]      |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[ØRK]]                       |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Sønderås BK]]               |                    |                                     |                                          |                                      |                                           |                            |                |
+| [[Viktoria Birkelund]]        |        1st         |                                     |                                          |                                      |                                           |             12             |      2025      |
 
 ### Champions
 
@@ -188,7 +188,7 @@ The official Ligaen record recognizes only the club's ten league championships a
 | Season | Champion           | Runner-up      | Top Scorer (club)    | Goals |
 | ------ | ------------------ | -------------- | -------------------- | ----- |
 | 1942   | KUGF               | Dansk Boldklub | Viggo Svanesen (AB)  | 21    |
-| 1943   | KUGF(2)            | Nyhavn IF      | Viggo Svanesen (AB)  | 25    |
+| 1943   | KUGF (2)           | Nyhavn IF      | Viggo Svanesen (AB)  | 25    |
 | 1944   |                    |                |                      |       |
 | 1945   | ØBK                | UB             | Lars Møller (ØBK)    | 19    |
 | 1946   | ØBK (2)            | Dansk Boldklub | Lars Møller (ØBK)    | 23    |

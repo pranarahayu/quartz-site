@@ -2,7 +2,7 @@
 publish: true
 title: Fortuna Lavvand
 created: 2026-09-12T11:37:11.530+07:00
-modified: 2026-09-12T15:39:19.436+07:00
+modified: 2026-09-19T08:17:19.847+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -40,7 +40,7 @@ modified: 2026-09-12T15:39:19.436+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Ground</td>
-      <td style="padding: 6px 0;">Lavvand Stadion</td>
+      <td style="padding: 6px 0;">Færgehavn Stadion</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">League</td>

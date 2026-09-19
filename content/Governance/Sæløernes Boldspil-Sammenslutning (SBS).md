@@ -2,7 +2,7 @@
 publish: true
 title: Sæløernes Boldspil-Sammenslutning
 created: 2026-08-21T14:38:14.542+07:00
-modified: 2026-09-15T09:56:55.736+07:00
+modified: 2026-09-19T08:48:07.372+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -51,22 +51,22 @@ Headquartered in Nyhavn, the association was admitted to FIFA in 1985 and UEFA i
 
 #### Early regional governance
 
-Prior to the formation of the SBS, association football in Sæløerne was decentralized and administered independently by six regional associations. Each body organized its own localized championship. While an overall island champion was declared through the annual Sælmesterskabet tournament, the absence of a central governing authority prevented the establishment of a unified league structure, leaving top-tier clubs to compete almost exclusively within their immediate geographical areas.
+Prior to the formation of the SBS, [[index|association football in Sæløerne]] was decentralized and administered independently by six regional associations. Each body organized its own localized championship. While an overall island champion was declared through the annual [[Sælmesterskabet]] tournament, the absence of a central governing authority prevented the establishment of a unified league structure, leaving [[List of football clubs in Sæløerne|top-tier clubs]] to compete almost exclusively within their immediate geographical areas.
 
 #### Foundation and centralization (1939–1957)
 
 Rising interest in football during the late 1930s highlighted the need for a unified administrative framework. In 1939, the SBS was officially established to centralize competition rules and governance across Sæløerne.
 
-A primary objective of the SBS was the creation of a national league system. In 1942, the association launched the **Mesterrækken**, which replaced the _Sælmesterskabet_ as the premier competition for determining the national champion. The introduction of the Mesterrækken did not dissolve the six regional associations; instead, regional leagues continued operating under local governance, while the SBS assumed responsibility for coordinating national policy and linking regional play with the new top-flight division.
+A primary objective of the SBS was the creation of a national league system. In 1942, the association launched the [[Ligaen|Mesterrækken]], which replaced the [[Sælmesterskabet]] as the premier competition for determining the national champion. The introduction of the Mesterrækken did not dissolve the six regional associations; instead, regional leagues continued operating under local governance, while the SBS assumed responsibility for coordinating national policy and linking regional play with the new top-flight division.
 
-In 1957, the historic _Sælmesterskabet_ title was repurposed and reintroduced as Sæløerne's national knockout cup competition. This structural change preserved the heritage of the island's oldest football tournament while establishing the Mesterrækken as the country's primary league competition.
+In 1957, the historic Sælmesterskabet title was repurposed and reintroduced as Sæløerne's national knockout cup competition. This structural change preserved the heritage of the island's oldest football tournament while establishing the Mesterrækken as the country's primary league competition.
 
 #### Professionalization and international recognition (1950s–present)
 
 During the second half of the 20th century, the SBS expanded the domestic football pyramid by establishing secondary national divisions, standardizing promotion and relegation, and overseeing the transition toward professionalization.
 
 - **International affiliation:** The SBS gained membership in FIFA in 1985, followed by UEFA in 1987, enabling Sæløsk national teams to enter official international qualifiers.
-- **Separation of commercial operations:** In 1993, responsibility for the administration and commercial operation of the professional divisions was transferred to the newly established Ligaforeningen (LF). The SBS retained ultimate regulatory authority over the sport, refereeing, and national cup competition.
+- **Separation of commercial operations:** In 1993, responsibility for the administration and commercial operation of the professional divisions was transferred to the newly established [[Ligaforeningen]] (LF). The SBS retained ultimate regulatory authority over the sport, refereeing, and national cup competition.
 
 ### Structure and Competitions
 

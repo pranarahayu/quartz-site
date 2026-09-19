@@ -2,7 +2,7 @@
 publish: true
 title: Dansk Boldklub
 created: 2026-09-12T16:41:11.132+07:00
-modified: 2026-09-13T11:21:51.448+07:00
+modified: 2026-09-19T07:58:06.910+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -40,7 +40,7 @@ modified: 2026-09-13T11:21:51.448+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Ground</td>
-      <td style="padding: 6px 0;">Sæløernes Nationalstadium</td>
+      <td style="padding: 6px 0;">Kyststed Idrætspark</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">League</td>
