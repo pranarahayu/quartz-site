@@ -2,7 +2,7 @@
 publish: true
 title: Lokalligaen
 created: 2026-07-09T11:48:56.916+07:00
-modified: 2026-09-19T09:08:09.859+07:00
+modified: 2026-09-19T10:23:34.392+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -24,11 +24,11 @@ modified: 2026-09-19T09:08:09.859+07:00
   <table style="width: 100%; border-collapse: collapse; background: transparent; border: none;">
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; width: 45%; vertical-align: top;">Founded</td>
-      <td style="padding: 6px 0;">1942; 84 years ago<br><span style="color: var(--text-muted); font-size: 0.9em;">(as <a class="internal-link" href="Ligaen">Mesterrækken</a>)</span></td>
+      <td style="padding: 6px 0;">2004; 22 years ago</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Country</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Sæløerne">Sæløerne</a></td>
+      <td style="padding: 6px 0;">Sæløerne</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Confederation</td>
@@ -36,53 +36,41 @@ modified: 2026-09-19T09:08:09.859+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Number of clubs</td>
-      <td style="padding: 6px 0;">10</td>
+      <td style="padding: 6px 0;">16</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Level on pyramid</td>
-      <td style="padding: 6px 0;">1</td>
+      <td style="padding: 6px 0;">4</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Relegation to</td>
-      <td style="padding: 6px 0;"><a class="internal-link" data-href="2. Liga" href="/competitions/2.-liga/">2. Liga</a></td>
+      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Promotion to</td>
+      <td style="padding: 6px 0;"><a class="internal-link" data-href="3. Liga" href="/competitions/3.-liga/">3. Liga</a></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Domestic cup(s)</td>
       <td style="padding: 6px 0;"><a class="internal-link" href="Sælmesterskabet">Sælmesterskabet</a></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">International cup(s)</td>
-      <td style="padding: 6px 0;">UEFA Champions League<br>UEFA Europa League<br>UEFA Conference League</td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Current champions</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">Viktoria Birkelund </a><span style="color: var(--text-muted); font-size: 0.9em;">(12th title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">KS Polonia Kyststed </a><span style="color: var(--text-muted); font-size: 0.9em;">(1st title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boldklubben Kyststeds Universitet">Boldklubben Kyststeds Universitet</a> (19 titles)</td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Broadcaster(s)</td>
-      <td style="padding: 6px 0;">Kyststed Kringkasting (KK)</td>
-    </tr>
-    <tr>
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Title Sponsor</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boreas Energi">Boreas Energi</a></td>
+      <td style="padding: 6px 0;">4 clubs (2 titles)</td>
     </tr>
   </table>
 
   <!-- Footer "Current Season" Link -->
 
   <div style="text-align: center; font-style: italic; margin-top: 10px; font-size: 0.85em; border-top: 1px solid var(--background-modifier-border); padding-top: 8px;">
-    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Ligaen Season</span>
+    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Lokalligaen Season</span>
   </div>
 
 </div>
 
 The Lokalligaen is the fourth and lowest national level of the [[index|Sæløsk football league system]]. It is divided into two regional groups, Nord and Syd, each containing eight clubs.
 
-The competition is administered by the [[Sæløernes Boldspil-Sammenslutning (SBS)]] and consists mainly of semi-professional and amateur clubs. The winner of each group is promoted directly to [[3. Liga]].
+The competition is administered by the [[Sæløernes Boldspil-Sammenslutning (SBS)]] and consists mainly of semi-professional and amateur clubs. The winner of each group is promoted directly to [[Competitions/3. Liga/3. Liga|3. Liga]].
 
 ### History
 

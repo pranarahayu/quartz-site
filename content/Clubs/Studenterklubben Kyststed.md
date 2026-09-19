@@ -2,7 +2,7 @@
 publish: true
 title: Studenterklubben Kyststed
 created: 2026-09-12T11:37:05.847+07:00
-modified: 2026-09-19T08:32:21.419+07:00
+modified: 2026-09-19T12:52:33.524+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -15,7 +15,7 @@ modified: 2026-09-19T08:32:21.419+07:00
 
 <div style="text-align: center; margin-bottom: 10px;">
 	<img
-	src="https://kyststed.my.id/static/club/BKU.png" alt="BKU logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
+	src="https://kyststed.my.id/static/club/KSK.png" alt="KSK logo" style="display: block; width: 130px; height: auto; margin: 0 auto;"
 	>
 </div>
 
@@ -60,15 +60,15 @@ modified: 2026-09-19T08:32:21.419+07:00
 <div style="text-align: center; font-weight: bold; margin-bottom: 8px;">Kits</div>
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
 <div style="text-align: center;">
-<img src="https://kyststed.my.id/static/kits/BKU-home.png" alt="BKU home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<img src="https://kyststed.my.id/static/kits/KSK-home.png" alt="KSK home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
 <div style="font-size: 0.8em; margin-top: 4px;">Home</div>
 </div>
 <div style="text-align: center;">
-<img src="https://kyststed.my.id/static/kits/BKU-away.png" alt="BKU away kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<img src="https://kyststed.my.id/static/kits/KSK-away.png" alt="KSK away kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
 <div style="font-size: 0.8em; margin-top: 4px;">Away</div>
 </div>
 <div style="text-align: center;">
-<img src="https://kyststed.my.id/static/kits/BKU-third.png" alt="BKU third kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<img src="https://kyststed.my.id/static/kits/KSK-third.png" alt="KSK third kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
 <div style="font-size: 0.8em; margin-top: 4px;">Third</div>
 </div>
 </div>

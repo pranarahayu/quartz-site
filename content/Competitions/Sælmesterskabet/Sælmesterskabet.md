@@ -2,7 +2,7 @@
 publish: true
 title: Sælmesterskabet
 created: 2026-07-09T14:21:59.966+07:00
-modified: 2026-09-19T09:10:07.050+07:00
+modified: 2026-09-19T12:48:23.819+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -24,43 +24,27 @@ modified: 2026-09-19T09:10:07.050+07:00
   <table style="width: 100%; border-collapse: collapse; background: transparent; border: none;">
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; width: 45%; vertical-align: top;">Founded</td>
-      <td style="padding: 6px 0;">1942; 84 years ago<br><span style="color: var(--text-muted); font-size: 0.9em;">(as <a class="internal-link" href="Ligaen">Mesterrækken</a>)</span></td>
+      <td style="padding: 6px 0;">1918; 108 years ago</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Country</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Sæløerne">Sæløerne</a></td>
+      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Region</td>
+      <td style="padding: 6px 0;">Sæløerne</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Confederation</td>
-      <td style="padding: 6px 0;">UEFA</td>
+      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Teams</td>
+      <td style="padding: 6px 0;">46</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Number of clubs</td>
-      <td style="padding: 6px 0;">10</td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Level on pyramid</td>
-      <td style="padding: 6px 0;">1</td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Relegation to</td>
-      <td style="padding: 6px 0;"><a class="internal-link" data-href="2. Liga" href="/competitions/2.-liga/">2. Liga</a></td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Domestic cup(s)</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Sælmesterskabet">Sælmesterskabet</a></td>
-    </tr>
-    <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
-      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">International cup(s)</td>
-      <td style="padding: 6px 0;">UEFA Champions League<br>UEFA Europa League<br>UEFA Conference League</td>
+      <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Qualifier for</td>
+      <td style="padding: 6px 0;">UEFA Europa League</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Current champions</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">Viktoria Birkelund </a><span style="color: var(--text-muted); font-size: 0.9em;">(12th title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Studenterklubben Kyststed">Studenterklubben Kyststed </a><span style="color: var(--text-muted); font-size: 0.9em;">(12th title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boldklubben Kyststeds Universitet">Boldklubben Kyststeds Universitet</a> (19 titles)</td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="Dansk Boldklub">Dansk Boldklub</a> (18 titles)</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Broadcaster(s)</td>
@@ -68,14 +52,14 @@ modified: 2026-09-19T09:10:07.050+07:00
     </tr>
     <tr>
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Title Sponsor</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Boreas Energi">Boreas Energi</a></td>
+      <td style="padding: 6px 0;">Havvinger</td>
     </tr>
   </table>
 
   <!-- Footer "Current Season" Link -->
 
   <div style="text-align: center; font-style: italic; margin-top: 10px; font-size: 0.85em; border-top: 1px solid var(--background-modifier-border); padding-top: 8px;">
-    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Ligaen Season</span>
+    Current: <span style="color: var(--text-error); font-weight: bold;">2026 Sælmesterskabet</span>
   </div>
 
 </div>
@@ -88,7 +72,7 @@ First contested in 1918, it is the oldest football competition in Sæløerne.
 
 The Sælmesterskabet was originally established as an island-wide championship. Before the creation of a unified national league, it brought together leading clubs from the six regional competitions and was used to determine the overall Sæløsk champion.
 
-The competition served as the principal national championship until 1941. Following the establishment of the SBS and the creation of the [[Ligaen|Mesterrækken]] in 1942, the league replaced the Sælmesterskabet as the competition used to determine the national champion.
+The competition served as the principal national championship until 1941. Following the establishment of the SBS and the creation of the [[Competitions/Ligaen/Ligaen|Mesterrækken]] in 1942, the league replaced the Sælmesterskabet as the competition used to determine the national champion.
 
 The Sælmesterskabet was not contested between 1942 and 1956. It was revived by the SBS in 1957 as the national knockout cup, allowing the historic name to continue under a new competitive role.
 
@@ -117,12 +101,14 @@ The home order for the two-legged semi-finals is determined by the draw.
 - **Regional Tournaments Qualifiers**, teams vary per region
 - **Quarterfinals**, 8 teams
   - 3 from Kyststed Hovedstad, 1 from each region
+- **Semifinals**, 4 teams
 
 – and so on until the finals.
 
 ##### From 1957 until 1965
 
 - **1st round**, 16 teams
+- **Quarterfinals**, 8 teams
 
 – and so on until the finals.
 
@@ -147,12 +133,13 @@ The home order for the two-legged semi-finals is determined by the draw.
 - **Qualifying round 2**, 16 teams
   - 4 teams from Q1
   - 4 teams from 2. Division (1st–4th placed)
-  - 8 teams from 1. Division
-- **Qualifying round 3**, 8 teams
+  - 8 teams from 1. Division (5th–12th placed)
+- **Qualifying round 3**, 12 teams
   - 8 teams from Q2
+  - 4 teams from 1. Division (1st–4th placed)
 - **1st round**, 16 teams
-  - 4 teams from Q3
-  - 12 teams from Sæløernes Hovedliga
+  - 6 teams from Q3
+  - 10 teams from Sæløernes Hovedliga
 - **Quarterfinals**, 8 teams
 
 – and so on until the finals.
@@ -161,7 +148,7 @@ The home order for the two-legged semi-finals is determined by the draw.
 
 - **Qualifying round 1**, 16 teams
   - 10 teams from 3. Liga
-  - 8 teams from 2. Liga (5th–10th placed)
+  - 6 teams from 2. Liga (5th–10th placed)
 - **Qualifying round 2**, 12 teams
   - 8 teams from Q1
   - 4 teams from 2. Liga (1st–4th placed)
@@ -186,33 +173,13 @@ The home order for the two-legged semi-finals is determined by the draw.
 
 – and so on until the finals.
 
-##### From 2017
-
-- **Qualifying round 1**, 16 teams
-  - 16 teams from Lokalligaen
-- **Qualifying round 2**, 16 teams
-  - 8 teams from Q1
-  - 8 teams from 3. Liga (3rd–10th placed)
-- **Play-offs**, 20 teams
-  - 8 teams from Q2
-  - 2 teams from 3. Liga (1st–2nd placed)
-  - 10 teams from 2. Liga
-- **Group stage**, 20 teams (5 groups of 4 teams)
-  - 10 teams from PO
-  - 10 teams from Sæløernes Ligaen
-- **Quarterfinals**, 8 teams
-  - 5 group winners
-  - 3 best runners-up
-
-– and so on until the finals.
-
 ### Status of pre-1942 titles
 
 The retroactive reclassification of the early Sælmesterskabet titles remains disputed, most notably by [[Dansk Boldklub]].
 
 Dansk Boldklub won the competition twelve times before 1942 and has also won ten officially recognized league championships. The club regards all 22 victories as national championships because the original Sælmesterskabet was the highest island-wide competition available before the foundation of the Mesterrækken.
 
-[[Ligaen]] regulations award one championship star for every seven recognized league titles. Under the official classification, Dansk Boldklub's ten league titles entitle it to one star. By including its twelve pre-1942 Sælmesterskabet titles, the club claims three.
+[[Competitions/Ligaen/Ligaen|Ligaen]] regulations award one championship star for every seven recognized league titles. Under the official classification, Dansk Boldklub's ten league titles entitle it to one star. By including its twelve pre-1942 Sælmesterskabet titles, the club claims three.
 
 Dansk Boldklub continues to display three stars above its crest despite the Ligaen recognizing only one. The club is fined for every match in which it wears the unauthorized stars.
 
