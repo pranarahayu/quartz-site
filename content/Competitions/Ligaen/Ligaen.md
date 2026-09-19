@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-19T14:43:28.462+07:00
+modified: 2026-09-19T14:47:24.378+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -351,8 +351,7 @@ Ligaen regulations allow clubs to display one championship star for every seven 
 
 Titles won in the Sælmesterskabet before 1942 do not count towards the award. Although the tournament originally determined the overall champion of Sæløerne, its pre-1942 winners were retroactively classified as cup winners when the competition was reintroduced as the national cup in 1957.
 
-★★ [[Studenterklubben Kyststed]] (19)
-★ [[Viktoria Birkelund]] (12), [[Dansk Boldklub]] (10), [[FC Kyststed]] (7)
+★★ [[Studenterklubben Kyststed]] (19)<br>★ [[Viktoria Birkelund]] (12), [[Dansk Boldklub]] (10), [[FC Kyststed]] (7)
 
 ##### Dansk Boldklub dispute
 
