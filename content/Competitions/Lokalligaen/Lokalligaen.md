@@ -2,7 +2,7 @@
 publish: true
 title: Lokalligaen
 created: 2026-07-09T11:48:56.916+07:00
-modified: 2026-09-19T10:23:34.392+07:00
+modified: 2026-09-20T11:32:20.514+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -78,16 +78,16 @@ The Lokalligaen was established in 2004 to provide a national fourth tier beneat
 
 The inaugural competition contained sixteen clubs divided into four regional groups of four. The original members were:
 
-|                      |                               |
-| -------------------- | ----------------------------- |
-| BK Progress          | IK Sølvåen                    |
-| ØB84                 | Alliancen BK 1923             |
-| Isbæk Boldklub       | FK Polaris                    |
-| FBK Freja            | BK Kompasset                  |
-| Atletklubben Fyrholm | Stenskov Kicker               |
-| Falkemose IF         | Nørrekær Atlet- og Idrætsklub |
-| Stenodde Sport 04    | Marielund Ulf                 |
-| Dalgaard FC          | Polonia Kyststed              |
+|                          |                                                 |     |
+| ------------------------ | ----------------------------------------------- | --- |
+| [[BK Progress]]          | [[IK Sølvåen]]                                  |     |
+| [[ØB84]]                 | [[Alliancen BK 1923]]                           |     |
+| [[Isbæk Boldklub]]       | [[FK Polaris]]                                  |     |
+| [[FBK Freja]]            | [[BK Kompasset]]                                |     |
+| [[Atletklubben Fyrholm]] | [[Stenskov Kicker]]                             |     |
+| [[Falkemose IF]]         | [[Nørrekær AIK\|Nørrekær Atlet- og Idrætsklub]] |     |
+| Stenodde Sport 04        | [[Marielund Ulf]]                               |     |
+| [[Dalgaard FC]]          | [[KS Polonia Kyststed]]                         |     |
 
 In 2018, the four regional groups were replaced by the present Nord and Syd divisions. Each new group contained eight clubs, reducing the number of regional sections without changing the total membership of the competition.
 
@@ -100,3 +100,18 @@ Lokalligaen Nord and Lokalligaen Syd each contain eight clubs. Teams compete onl
 The winner of each group is promoted directly to 3. Liga, replacing the two clubs relegated from that division. There is no promotion play-off between the group winners.
 
 As the Lokalligaen is the lowest national division, its clubs are not relegated to another national tier. Vacancies caused by withdrawal, bankruptcy or licensing decisions may be filled by the SBS.
+
+### Teams
+
+#### Current teams (2026)
+
+| **Nord**            | **Syd**              |
+| ------------------- | -------------------- |
+| [[Dalgaard FC]]     | [[BK Kompasset]]     |
+| [[FK Polaris]]      | [[BK Progress]]      |
+| [[Guldager IF]]     | [[Boldklubben 1917]] |
+| [[IK Sølvåen]]      | [[Brændholm TIF]]    |
+| [[Isbæk Boldklub]]  | [[Falkemose IF]]     |
+| [[Nørrekær AIK]]    | [[FBK Freja]]        |
+| [[Stenskov Kicker]] | [[SK Broen]]         |
+| [[Tårnby FC]]       | [[Stormbugt fB]]     |

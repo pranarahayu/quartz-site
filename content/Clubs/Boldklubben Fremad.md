@@ -2,7 +2,7 @@
 publish: true
 title: Boldklubben Fremad
 created: 2026-09-12T10:37:46.863+07:00
-modified: 2026-09-19T07:42:09.938+07:00
+modified: 2026-09-19T18:50:24.970+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -60,7 +60,7 @@ modified: 2026-09-19T07:42:09.938+07:00
 <div style="text-align: center; font-weight: bold; margin-bottom: 8px;">Kits</div>
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 14px;">
 <div style="text-align: center;">
-<img src="https://kyststed.my.id/static/kits/BKF-home.png" alt="BKF home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
+<img src="https://kyststed.my.id/static/kits/BKFR-home.png" alt="BKF home kit" width="75" style="display: block; height: 95px; object-fit: contain; margin: 0 auto;">
 <div style="font-size: 0.8em; margin-top: 4px;">Home</div>
 </div>
 <div style="text-align: center;">
