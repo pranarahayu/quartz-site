@@ -2,11 +2,11 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-21T14:21:31.885+07:00
+modified: 2026-09-21T14:26:09.644+07:00
 ---
 
 > [!info] About this project
-> Football in Sæløerne is an ongoing fictional football-history and worldbuilding project. Club histories, historical results, season records and visual material are being added gradually.
+> Football in Sæløerne is an ongoing fictional football-history and worldbuilding project. Club histories, historical results, season records, and visual material are being added gradually.
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
 
