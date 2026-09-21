@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-21T14:09:27.416+07:00
+modified: 2026-09-21T14:16:08.515+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -333,9 +333,9 @@ The following 16 clubs have won the top league in Sæløsk football.
 
 | City         | Titles | Winning Clubs                                                                       |
 | ------------ | :----: | ----------------------------------------------------------------------------------- |
-| Storkyststed |   38   | Studenterklubben Kyststed (19), Dansk Boldklub (10), FC Kyststed (6), Nyhavn IF (3) |
+| Storkyststed |   39   | Studenterklubben Kyststed (19), Dansk Boldklub (10), FC Kyststed (7), Nyhavn IF (3) |
 | Birkelund    |   12   | Viktoria Birkelund (12)                                                             |
-| Dybhavn      |   6    | Fremad Boldklubben (6)                                                              |
+| Dybhavn      |   6    | Boldklubben Fremad (6)                                                              |
 | Sønderås     |   6    | Sønderås BK (6)                                                                     |
 | Rødpil       |   6    | ØRK (5), Rødpil IF (1)                                                              |
 | Østereng     |   5    | ØBK Østereng (5)                                                                    |

@@ -2,8 +2,11 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-19T09:31:52.615+07:00
+modified: 2026-09-21T14:21:31.885+07:00
 ---
+
+> [!info] About this project
+> Football in Sæløerne is an ongoing fictional football-history and worldbuilding project. Club histories, historical results, season records and visual material are being added gradually.
 
 Association football is the most popular sport in Sæløerne, an autonomous territory within the Kingdom of Denmark. Approximately 60% of people who participate in organized sport in the territory play football.
 
@@ -97,3 +100,13 @@ The same system was introduced between 2. Liga and 3. Liga. The bottom club in 2
 Youth football is administered by the SBS in cooperation with the six regional associations. Competitions are organized across six age groups, with most early-stage football played regionally to limit travel between the islands.
 
 The youth system serves both community clubs and the academies of clubs competing in the national divisions. Development standards introduced after the SBS gained international recognition have placed greater emphasis on coaching education, facilities, and structured competition.
+
+## Explore Sæløsk football
+
+- [[Competitions/Ligaen/Ligaen|Ligaen]]
+- [[Competitions/2. Liga/2. Liga|2. Liga]]
+- [[Competitions/3. Liga/3. Liga|3. Liga]]
+- [[Competitions/Lokalligaen/Lokalligaen|Lokalligaen]]
+- [[Competitions/Sælmesterskabet/Sælmesterskabet|Sælmesterskabet]]
+- [[Guides/List of football clubs in Sæløerne|List of football clubs]]
+- [[Governance/Sæløernes Boldspil-Sammenslutning (SBS)|SBS]]
