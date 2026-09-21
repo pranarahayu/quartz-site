@@ -2,7 +2,7 @@
 publish: true
 title: Lokalligaen
 created: 2026-07-09T11:48:56.916+07:00
-modified: 2026-09-20T11:32:20.514+07:00
+modified: 2026-09-20T12:11:12.650+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -76,22 +76,7 @@ The competition is administered by the [[Sæløernes Boldspil-Sammenslutning (SB
 
 The Lokalligaen was established in 2004 to provide a national fourth tier beneath 3. Liga. Its introduction expanded the league system from 30 to 46 clubs.
 
-The inaugural competition contained sixteen clubs divided into four regional groups of four. The original members were:
-
-|                          |                                                 |     |
-| ------------------------ | ----------------------------------------------- | --- |
-| [[BK Progress]]          | [[IK Sølvåen]]                                  |     |
-| [[ØB84]]                 | [[Alliancen BK 1923]]                           |     |
-| [[Isbæk Boldklub]]       | [[FK Polaris]]                                  |     |
-| [[FBK Freja]]            | [[BK Kompasset]]                                |     |
-| [[Atletklubben Fyrholm]] | [[Stenskov Kicker]]                             |     |
-| [[Falkemose IF]]         | [[Nørrekær AIK\|Nørrekær Atlet- og Idrætsklub]] |     |
-| Stenodde Sport 04        | [[Marielund Ulf]]                               |     |
-| [[Dalgaard FC]]          | [[KS Polonia Kyststed]]                         |     |
-
 In 2018, the four regional groups were replaced by the present Nord and Syd divisions. Each new group contained eight clubs, reducing the number of regional sections without changing the total membership of the competition.
-
-Stenodde Sport 04 later left the competition following its bankruptcy. [[Grøndal Fodbold]] was admitted as its replacement.
 
 ### Competition format
 
