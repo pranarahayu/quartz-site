@@ -2,7 +2,7 @@
 publish: true
 title: Lokalligaen
 created: 2026-07-09T11:48:56.916+07:00
-modified: 2026-09-20T12:11:12.650+07:00
+modified: 2026-09-22T10:50:54.614+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -52,7 +52,7 @@ modified: 2026-09-20T12:11:12.650+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Current champions</td>
-      <td style="padding: 6px 0;"><a class="internal-link" href="Viktoria Birkelund">KS Polonia Kyststed </a><span style="color: var(--text-muted); font-size: 0.9em;">(1st title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
+      <td style="padding: 6px 0;"><a class="internal-link" href="KS Polonia Kyststed">KS Polonia Kyststed </a><span style="color: var(--text-muted); font-size: 0.9em;">(1st title)</span><br><span style="color: var(--text-muted); font-size: 0.9em;">(2025)</span></td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Most championships</td>
