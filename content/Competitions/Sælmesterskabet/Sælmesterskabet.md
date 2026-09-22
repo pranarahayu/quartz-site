@@ -2,7 +2,7 @@
 publish: true
 title: Sælmesterskabet
 created: 2026-07-09T14:21:59.966+07:00
-modified: 2026-09-19T12:48:23.819+07:00
+modified: 2026-09-22T20:25:50.732+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -185,29 +185,29 @@ Dansk Boldklub continues to display three stars above its crest despite the Liga
 
 ### Finals
 
-| Season | Winner                 | Result | Runner-up          | Venue |
-| ------ | ---------------------- | ------ | ------------------ | ----- |
-| 1918   | Dansk Boldklub         | 4–1    | Akademisk Boldklub |       |
-| 1919   | Dansk Boldklub (2)     | 3–1    | Akademisk Boldklub |       |
-| 1920   | Dansk Boldklub (3)     | 4–2    | Akademisk Boldklub |       |
-| 1921   | Dansk Boldklub (4)     | 5–0    | Tårnby Boldklub    |       |
-| 1922   | Dansk Boldklub (5)     | 6–1    | Akademisk Boldklub |       |
-| 1923   | Akademisk Boldklub     | 3–2    | Dansk Boldklub     |       |
-| 1924   | Dansk Boldklub (6)     | 4–1    | Ravnedal BK        |       |
-| 1925   | Ravnedal BK            | 3–3    | Nyhavn IF          |       |
-| 1926   | Dansk Boldklub (7)     | 6–2    | Sønderås BK        |       |
-| 1927   | Tårnby Boldklub        | 2–0    | ØBK                |       |
-| 1928   | Dansk Boldklub (8)     | 7–2    | Vesterfjeld IF     |       |
-| 1929   | Nyhavn IF              | 2–2    | Dansk Boldklub     |       |
-| 1930   | Nyhavn IF (2)          | 3–0    | Akademisk Boldklub |       |
-| 1931   | ØBK                    | 4–0    | Tårnby Boldklub    |       |
-| 1932   | Dansk Boldklub (9)     | 5–3    | FK Sæløer          |       |
-| 1933   | Dansk Boldklub (10)    | 6–1    | Rødpil IF          |       |
-| 1934   | Rødpil IF              | 3–2    | Sønderås BK        |       |
-| 1935   | Dansk Boldklub (11)    | 4–2    | Boldklubben 1923   |       |
-| 1936   | Sønderås BK            | 2–1    | ØBK                |       |
-| 1937   | Vesterfjeld IF         | 4–4    | ØBK                |       |
-| 1938   | Dansk Boldklub (12)    | 4–3    | Akademisk Boldklub |       |
-| 1939   | Boldklubben 1923       | 5–2    | Nyhavn IF          |       |
-| 1940   | Sønderås BK (2)        | 3–1    | Skovdal IF         |       |
-| 1941   | Akademisk Boldklub (2) | 6–2    | Sønderås BK        |       |
+| Season | Winner                        | Result | Runner-up                 | Venue |
+| ------ | ----------------------------- | ------ | ------------------------- | ----- |
+| 1918   | Dansk Boldklub                | 4–1    | Studenterklubben Kyststed |       |
+| 1919   | Dansk Boldklub (2)            | 3–1    | Studenterklubben Kyststed |       |
+| 1920   | Dansk Boldklub (3)            | 4–2    | Studenterklubben Kyststed |       |
+| 1921   | Dansk Boldklub (4)            | 5–0    | Tårnby Boldklub           |       |
+| 1922   | Dansk Boldklub (5)            | 6–1    | Akademisk Boldklub        |       |
+| 1923   | Studenterklubben Kyststed     | 3–2    | Dansk Boldklub            |       |
+| 1924   | Dansk Boldklub (6)            | 4–1    | Ravnedal BK               |       |
+| 1925   | Ravnedal BK                   | 3–3    | Nyhavn IF                 |       |
+| 1926   | Dansk Boldklub (7)            | 6–2    | Sønderås BK               |       |
+| 1927   | Tårnby Boldklub               | 2–0    | ØBK                       |       |
+| 1928   | Dansk Boldklub (8)            | 7–2    | Vesterfjeld IF            |       |
+| 1929   | Nyhavn IF                     | 2–2    | Dansk Boldklub            |       |
+| 1930   | Nyhavn IF (2)                 | 3–0    | Studenterklubben Kyststed |       |
+| 1931   | ØBK                           | 4–0    | Tårnby Boldklub           |       |
+| 1932   | Dansk Boldklub (9)            | 5–3    | FK Sæløer                 |       |
+| 1933   | Dansk Boldklub (10)           | 6–1    | Rødpil IF                 |       |
+| 1934   | Rødpil IF                     | 3–2    | Sønderås BK               |       |
+| 1935   | Dansk Boldklub (11)           | 4–2    | Boldklubben 1923          |       |
+| 1936   | Sønderås BK                   | 2–1    | ØBK                       |       |
+| 1937   | Vesterfjeld IF                | 4–4    | ØBK                       |       |
+| 1938   | Dansk Boldklub (12)           | 4–3    | Studenterklubben Kyststed |       |
+| 1939   | Boldklubben 1923              | 5–2    | Nyhavn IF                 |       |
+| 1940   | Sønderås BK (2)               | 3–1    | Skovdal IF                |       |
+| 1941   | Studenterklubben Kyststed (2) | 6–2    | Sønderås BK               |       |
