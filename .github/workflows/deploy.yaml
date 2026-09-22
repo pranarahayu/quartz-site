@@ -24,6 +24,34 @@ jobs:
         run: npm ci
       - name: Install Plugins
         run: npx quartz plugin install
+      - name: Insert last-updated timestamp
+        run: |
+          node <<'EOF'
+          const fs = require("fs")
+
+          const file = "content/index.md"
+          const content = fs.readFileSync(file, "utf8")
+
+          const timestamp = new Intl.DateTimeFormat("en-GB", {
+            day: "numeric",
+            month: "long",
+            year: "numeric",
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false,
+            timeZone: "Europe/Copenhagen",
+            timeZoneName: "short",
+          }).format(new Date())
+
+          if (!content.includes("{{LAST_UPDATED}}")) {
+            throw new Error("Could not find {{LAST_UPDATED}} in content/index.md")
+          }
+
+          fs.writeFileSync(
+            file,
+            content.replaceAll("{{LAST_UPDATED}}", timestamp),
+          )
+          EOF
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
