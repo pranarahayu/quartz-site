@@ -2,10 +2,8 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-22T14:47:48.014+07:00
+modified: 2026-09-22T14:53:19.101+07:00
 ---
-
-_Project status: Active development · Last updated: {{LAST\_UPDATED}}_
 
 > [!info] About this project
 > Football in Sæløerne is an ongoing fictional football-history and worldbuilding project. Club histories, historical results, season records, and visual material are being added gradually.
