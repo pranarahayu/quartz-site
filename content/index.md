@@ -2,7 +2,7 @@
 publish: true
 title: Football in Sæløerne
 created: 2026-07-09T09:19:49.415+07:00
-modified: 2026-09-22T14:42:51.386+07:00
+modified: 2026-09-22T14:47:48.014+07:00
 ---
 
 _Project status: Active development · Last updated: {{LAST\_UPDATED}}_
@@ -99,7 +99,7 @@ The same system was introduced between 2. Liga and 3. Liga. The bottom club in 2
 
 ### Youth football
 
-Youth football is administered by the SBS in cooperation with the six regional associations. Competitions are organized across six age groups, with most early-stage football played regionally to limit travel between the islands..
+Youth football is administered by the SBS in cooperation with the six regional associations. Competitions are organized across six age groups, with most early-stage football played regionally to limit travel between the islands.
 
 The youth system serves both community clubs and the academies of clubs competing in the national divisions. Development standards introduced after the SBS gained international recognition have placed greater emphasis on coaching education, facilities, and structured competition.
 
