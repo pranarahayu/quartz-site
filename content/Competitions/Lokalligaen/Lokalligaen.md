@@ -2,7 +2,7 @@
 publish: true
 title: Lokalligaen
 created: 2026-07-09T11:48:56.916+07:00
-modified: 2026-09-22T10:50:54.614+07:00
+modified: 2026-09-22T13:30:38.164+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -70,7 +70,7 @@ modified: 2026-09-22T10:50:54.614+07:00
 
 The Lokalligaen is the fourth and lowest national level of the [[index|Sæløsk football league system]]. It is divided into two regional groups, Nord and Syd, each containing eight clubs.
 
-The competition is administered by the [[Sæløernes Boldspil-Sammenslutning (SBS)]] and consists mainly of semi-professional and amateur clubs. The winner of each group is promoted directly to [[Competitions/3. Liga/3. Liga|3. Liga]].
+The competition is administered by the [[Sæløernes Boldspil-Sammenslutning (SBS)]] and consists mainly of semi-professional and amateur clubs. The winner of each group is promoted directly to [[Competitions/3. Liga/3. Liga|3. Liga]] and contest the final to determine the overall Lokalligaen champion
 
 ### History
 

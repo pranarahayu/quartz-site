@@ -2,7 +2,7 @@
 publish: true
 title: List of football clubs in Sæløerne
 created: 2026-09-15T14:33:51.473+07:00
-modified: 2026-09-20T11:38:14.063+07:00
+modified: 2026-09-22T13:19:46.370+07:00
 ---
 
 This is a list of active and defunct football clubs in Sæløerne.
@@ -13,7 +13,7 @@ This is a list of active and defunct football clubs in Sæløerne.
 | [[Alliancen BK 1923]]         | 2000    | [[Competitions/Ligaen/Ligaen\|Ligaen]]                | Fiskerens Net             | Fiskerodde     | VFF                  |
 | [[Atletklubben Fyrholm]]      | 1992    | 2. Liga                                               | Vestnæs Idrætspark        | Fyrholm        | HFF                  |
 | _Boldklubben af 1911_         | 1911    | —                                                     | —                         | Færgeby        | LFF                  |
-| Boldklubben af 1914           | 1914    | [[Competitions/3. Liga/3. Liga\|3. Liga]]             | Fyrmarken                 | Bugtsiden      | HFF                  |
+| [[Boldklubben af 1914]]       | 1914    | [[Competitions/3. Liga/3. Liga\|3. Liga]]             | Fyrmarken                 | Bugtsiden      | HFF                  |
 | _Boldklubben 1991_            | 1991    | —                                                     | —                         | Blæsvig        | HFF                  |
 | [[Birkelund B&I]]             | 1924    | 2. Liga                                               | Viktoria Arena            | Birkelund      | ØFF                  |
 | [[BK Kompasset]]              | 1999    | [[Competitions/Lokalligaen/Lokalligaen\|Lokalligaen]] | Vestervang                | Sydhavn        | SøFF                 |
@@ -21,7 +21,7 @@ This is a list of active and defunct football clubs in Sæløerne.
 | [[BK Union]]                  | 1981    | 2. Liga                                               | Klinten Idrætspark        | Klinten        | SøFF                 |
 | _Blæsvig Boldklub_            | 1939    | —                                                     | —                         | Blæsvig        | HFF                  |
 | [[Boldklubben 1917]]          | 1917    | Lokalligaen                                           | 1917 Park                 | Bådeby         | VFF                  |
-| _Boldklubben af 1923_         | 1923    | —                                                     | —                         | Fiskerodde     | VFF                  |
+| _Boldklubben 1923_            | 1923    | —                                                     | —                         | Fiskerodde     | VFF                  |
 | [[Boldklubben Fremad]]        | 1908    | Ligaen                                                | NordMedica Stadion        | Dybhavn        | VFF                  |
 | _Boldklubben Klinten_         | 1907    | —                                                     | —                         | Klinten        | SøFF                 |
 | [[Brændholm TIF]]             | 1963    | Lokalligaen                                           | 1917 Park                 | Brændholm      | VFF                  |
