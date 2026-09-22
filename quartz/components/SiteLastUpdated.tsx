@@ -4,27 +4,8 @@ import type {
 } from "@quartz-community/types"
 
 const SiteLastUpdated: QuartzComponentConstructor = () => {
-  const Component: QuartzComponent = ({ allFiles, fileData }) => {
-    // Display only on the homepage
+  const Component: QuartzComponent = ({ fileData }) => {
     if (fileData.slug !== "index") return null
-
-    const dates = allFiles
-      .map(
-        (file) =>
-          file.dates?.modified ??
-          file.dates?.published ??
-          file.dates?.created,
-      )
-      .filter(
-        (date): date is Date =>
-          date instanceof Date && !Number.isNaN(date.getTime()),
-      )
-
-    if (dates.length === 0) return null
-
-    const latest = new Date(
-      Math.max(...dates.map((date) => date.getTime())),
-    )
 
     const formatted = new Intl.DateTimeFormat("en-GB", {
       day: "numeric",
@@ -35,7 +16,7 @@ const SiteLastUpdated: QuartzComponentConstructor = () => {
       hour12: false,
       timeZone: "Europe/Copenhagen",
       timeZoneName: "short",
-    }).format(latest)
+    }).format(new Date())
 
     return (
       <p class="site-last-updated">
