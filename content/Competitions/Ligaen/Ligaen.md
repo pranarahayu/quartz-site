@@ -2,7 +2,7 @@
 publish: true
 title: Ligaen
 created: 2026-07-09T11:34:27.868+07:00
-modified: 2026-09-21T14:16:08.515+07:00
+modified: 2026-09-23T16:53:10.031+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -152,18 +152,18 @@ The competition is currently marketed as the **Boreas-Ligaen** under its title s
 
 #### Current teams (2026)
 
-| **Club**                      | **2025 Position**  | **Location** | **Stadium** |
-| ----------------------------- | :----------------: | :----------: | :---------: |
-| [[Alliancen BK 1923]]         |                    |              |             |
-| [[Boldklubben Fremad]]        |                    |              |             |
-| [[Studenterklubben Kyststed]] |                    |              |             |
-| [[FC Kyststed]]               |                    |              |             |
-| [[Fortuna Lavvand]]           |                    |              |             |
-| [[Grøndal Fodbold]]           | 1st in [[2. Liga]] |              |             |
-| [[Olympisk Vesterfjeld]]      |                    |              |             |
-| [[ØRK]]                       |                    |              |             |
-| [[Sønderås BK]]               |                    |              |             |
-| [[Viktoria Birkelund]]        |        1st         |              |             |
+| **Club**                      | **2025 Position**  | **Location** |        **Stadium**        |
+| ----------------------------- | :----------------: | :----------: | :-----------------------: |
+| [[Alliancen BK 1923]]         |        5th         |  Fiskerodde  |       Fiskerens Net       |
+| [[Boldklubben Fremad]]        |        8th         |   Dybhavn    |    NordMedica Stadion     |
+| [[Studenterklubben Kyststed]] |        3rd         | Kyststed By  |    Blue Horizon Arena     |
+| [[FC Kyststed]]               |        2nd         | Kyststed By  | Sæløernes Nationalstadion |
+| [[Fortuna Lavvand]]           |        6th         |   Lavvand    |     Færgehavn Stadion     |
+| [[Grøndal Fodbold]]           | 1st in [[2. Liga]] |   Grøndal    |      Nyhavn Stadion       |
+| [[Olympisk Vesterfjeld]]      |        7th         | Vesterfjeld  |        Hekseberget        |
+| [[ØRK]]                       |        4th         |    Rødpil    |       Mudderpitten        |
+| [[Sønderås BK]]               |        9th         |   Sønderås   |     Stadion Sønderås      |
+| [[Viktoria Birkelund]]        |        1st         |  Birkelund   |      Viktoria Arena       |
 
 #### Seasons in Top Division
 

@@ -2,7 +2,7 @@
 publish: true
 title: FK Polaris
 created: 2026-09-20T11:14:13.656+07:00
-modified: 2026-09-20T11:20:13.168+07:00
+modified: 2026-09-23T16:56:09.603+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -48,7 +48,7 @@ modified: 2026-09-20T11:20:13.168+07:00
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">2025</td>
-      <td style="padding: 6px 0;">Lokalligaen, X of 10</td>
+      <td style="padding: 6px 0;">Lokalligaen Nord, 3rd of 8</td>
     </tr>
     <tr style="border-bottom: 1px solid var(--background-modifier-border-hover);">
       <td style="font-weight: bold; padding: 6px 0; vertical-align: top;">Website</td>
