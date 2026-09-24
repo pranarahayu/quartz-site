@@ -2,7 +2,7 @@
 publish: true
 title: List of football clubs in Sæløerne
 created: 2026-09-15T14:33:51.473+07:00
-modified: 2026-09-22T13:19:46.370+07:00
+modified: 2026-09-24T11:02:35.416+07:00
 ---
 
 This is a list of active and defunct football clubs in Sæløerne.
@@ -10,12 +10,12 @@ This is a list of active and defunct football clubs in Sæløerne.
 | Club                          | Founded | 2026 Division                                         | Ground                    | City           | Regional Association |
 | ----------------------------- | ------- | ----------------------------------------------------- | ------------------------- | -------------- | -------------------- |
 | [[AC Stormkyst]]              | 1998    | [[Competitions/2. Liga/2. Liga\|2. Liga]]             | Koldstrømparken           | Blæsvig        | HFF                  |
-| [[Alliancen BK 1923]]         | 2000    | [[Competitions/Ligaen/Ligaen\|Ligaen]]                | Fiskerens Net             | Fiskerodde     | VFF                  |
+| [[Alliancen BK 1923]]         | 1995    | [[Competitions/Ligaen/Ligaen\|Ligaen]]                | Fiskerens Net             | Fiskerodde     | VFF                  |
 | [[Atletklubben Fyrholm]]      | 1992    | 2. Liga                                               | Vestnæs Idrætspark        | Fyrholm        | HFF                  |
 | _Boldklubben af 1911_         | 1911    | —                                                     | —                         | Færgeby        | LFF                  |
 | [[Boldklubben af 1914]]       | 1914    | [[Competitions/3. Liga/3. Liga\|3. Liga]]             | Fyrmarken                 | Bugtsiden      | HFF                  |
 | _Boldklubben 1991_            | 1991    | —                                                     | —                         | Blæsvig        | HFF                  |
-| [[Birkelund B&I]]             | 1924    | 2. Liga                                               | Viktoria Arena            | Birkelund      | ØFF                  |
+| [[Birkelund B&I]]             | 1955    | 2. Liga                                               | Viktoria Arena            | Birkelund      | ØFF                  |
 | [[BK Kompasset]]              | 1999    | [[Competitions/Lokalligaen/Lokalligaen\|Lokalligaen]] | Vestervang                | Sydhavn        | SøFF                 |
 | [[BK Progress]]               | 1972    | Lokalligaen                                           | Engvang Idrætsplads       | Sydfisk        | VFF                  |
 | [[BK Union]]                  | 1981    | 2. Liga                                               | Klinten Idrætspark        | Klinten        | SøFF                 |
