@@ -2,7 +2,7 @@
 publish: true
 title: Studenterklubben Kyststed
 created: 2026-09-12T11:37:05.847+07:00
-modified: 2026-09-19T12:52:33.524+07:00
+modified: 2026-09-27T16:02:16.963+07:00
 ---
 
 <div style="float: right; width: 330px; border: 1px solid var(--background-modifier-border); background-color: var(--background-secondary); padding: 14px; margin: 0 0 20px 20px; border-radius: 6px; font-family: var(--font-interface); font-size: 0.9em; box-shadow: 0 4px 6px rgba(0,0,0,0.05); line-height: 1.4;">
@@ -74,3 +74,8 @@ modified: 2026-09-19T12:52:33.524+07:00
 </div>
 </div>
 </div>
+Studenterklubben Kyststed, commonly known as KSK or simply Studenterklubben, is a Sæløsk professional football club based in Kyststed By. The club competes in Ligaen, the highest level of the Sæløsk football league system, and has played in every top-flight season since the national league was established in 1942. KSK plays its home matches at Sæløernes Nationalstadion which also serves as the venue for Sæløsk national football team matches.
+
+KSK is the most successful club in Sæløsk league football, having won a record 19 top-flight championships. It won the inaugural Mesterrækken title in 1942 and retained the championship in 1943. Together with Sønderås BK, KSK is one of only two clubs to have competed in every season of the Sæløsk top division.
+
+The club was founded on 10 November 1904 as Kyststed Universitets Gymnastik- og Boldspilforening (KUGF) by members of the local university’s gymnastics club, together with students, scholars, and teachers. Its formation followed the establishment of Dansk Boldklub by Danish sailors and local residents earlier that year. KUGF adopted the name Studenterklubben Kyststed in 1945. Matches between KSK and Dansk Boldklub are known as Klassikeren, widely regarded as the oldest major rivalry in Sæløsk football.
