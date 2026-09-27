@@ -2,10 +2,8 @@
 publish: true
 title: List of football rivalries in Sæløerne
 created: 2026-09-27T16:12:52.136+07:00
-modified: 2026-09-27T16:39:07.951+07:00
+modified: 2026-09-27T16:47:32.883+07:00
 ---
-
-# List of football rivalries in Sæløerne
 
 Football rivalries in Sæløerne have developed through geography, regional identity, championship competition, and the contrasting backgrounds of the country’s clubs. Before the establishment of a national championship in 1942, football was principally organized through regional associations. Local matches therefore played an important role in establishing club identities and supporter loyalties.
 
